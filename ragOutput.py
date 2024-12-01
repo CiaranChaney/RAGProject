@@ -1,7 +1,7 @@
 import requests
 from sqlalchemy import create_engine, text
 import numpy as np
-from rag_embed import generate_embedding
+from ragEmbed import generate_embedding
 
 # Database connection
 engine = create_engine("postgresql://raguser:ragpassword@localhost/ragdb")
