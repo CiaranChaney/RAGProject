@@ -1,0 +1,606 @@
+Fraud & Theft Response Plan
+November 2022
+Version 1.2
+
+Report
+
+Version Update
+
+Date
+
+Fraud & Theft
+Response Plan
+
+1.0
+
+February 2022
+
+Updates to reflect changes in organisation
+structure, to reflect best practice guidance from
+British University Finance Directors Group
+(BUFDG) and to ensure alignment to obligations
+under Financial Memorandum with DfE are fully
+reflected in plan.
+Reviewed and approved by SLT – 1st Feb 2022
+
+Fraud & Theft
+Response Plan
+
+1.1
+
+Inclusion of the word ‘suspected’ before ‘Fraud’
+in section 4 as recommended by ARC (07.03.22)
+
+March 2022
+
+Fraud & Theft
+Response Plan
+
+1.2
+
+Consolidation of the key elements of the
+Response Plan from 15 to 11.
+
+November
+2022
+
+Conversion of the Reporting a Fraud form from
+Microsoft word to Microsoft Form format.
+Policy Owner – Chief Strategy & Finance Officer
+
+This policy is intended to support the University to deliver its strategic objectives and supporting
+operations. Should you have any issues, concerns or recommendations for improvement in relation
+to the practical application of this policy please contact the policy owner.
+
+Introduction
+The University’s activities require significant funds, much of which are ‘public’; as a publicly funded body, the
+University is accountable to a wide range of stakeholders for the use and management of those funds, and the
+associated controls.
+It is the responsibility of all University officers and staff to ensure that University funds and resources are used
+honestly and correctly, and to report any circumstances which may indicate their improper use. This
+responsibility aligns to the University Values of Integrity, Collaboration, Inclusion and Enhancing Potential, with
+this Fraud and Theft Response plan building on these values in terms of the approach and channels to be used
+to report and manage incidents of fraud and theft.
+Unfortunately, there is a view - rightly or wrongly - that most universities are often fraud victims because of
+their unique control environments. An atmosphere of openness and collegiality can lead to a lack of
+segregation of duties, independent oversight and fraud focus. To compound matters, these ideologies can be
+entrenched, making it even more difficult to prevent and detect financial fraud and reputational damage.
+Proactive fraud prevention is the primary counter-fraud related objective of any University - but when fraud is
+suspected or indicated, it is essential that prompt and professional reactive action is taken, and it is here
+where the need for trained fraud ‘first-responders’ within the University is clear. Unfortunately, fraud is
+unpredictable, time consuming to investigate, relationship-damaging, very disruptive and generally unpleasant
+- and has the potential to require significant stakeholder involvement.
+Primary responsibility for the prevention and detection of fraud rests with officers and staff who also have
+responsibility to manage the risk of fraud. Investigation of fraud is the overall responsibility of the Chief
+Strategy & Finance Officer, supported by fraud first-responders or other trained investigators and the project
+team that may be set up to investigate selected cases.
+The University’s Fraud and Theft Response Plan detailed below outlines the process to be adopted if suspected
+fraud is reported or detected; the Appendices also contain a range of useful information, including potential
+fraud indicators or warning signs.
+
+What is Fraud?
+The term fraud is a broad and widely-used term to describe a number of fraudulent-type activities that include
+theft, false accounting, misappropriation, bribery, corruption, deception and collusion. Some definitions of
+these and related terms are contained in Appendix A.
+In general, a fraud may be described as any type of deception that results in a gain to one party and/or a loss
+to another, in this case the University. The Fraud Act 2006 outlines three classes of fraud:
+1. Fraud by false representation
+2. Fraud by failing to disclose information
+3. Fraud by abuse of position
+Additionally, theft - such as the removal and/or misuse of funds, assets or cash - is not prosecuted as a fraud
+but falls under the various Theft Acts.
+In terms of the University’s Fraud and Theft Response Plan, fraud may be defined as deception with the
+intention of:
+•
+•
+•
+
+Gaining an advantage, personally and/or for friends and relatives
+Avoiding liability, or,
+Causing a financial and/or reputational loss to the University or one of its subsidiary organisations
+1
+
+The main types of irregularity are:
+•
+•
+
+•
+
+Theft: As above
+False accounting: dishonestly destroying, defacing, concealing or falsifying any account, record or
+documents required for any accounting purpose, with a view to personal gain or gain for another, or
+with the intent to cause loss to the University or subsidiary or furnishing information which is or may
+be misleading, false or deceptive
+Abuse of position: This is where fraud is committed by a person or people by virtue of their position, or
+authority where they are expected to safeguard another’s financial interests (e.g. that of the
+University as their employer) or not act against those interests
+
+Whilst they can be varied in nature, some examples of these irregularities within the University context
+include:
+•
+•
+•
+•
+•
+•
+
+Abuse of the expenses process and system
+Abuse of recruitment processes, including failure to disclose relevant information
+Use of the University logo and/or letterhead for personal gain
+Abuse of research grants, including misrepresentation and/or ‘siphoning’ of funds for personal gain
+Abuse of procurement processes
+Conflicts of Interest
+
+Further indicators and warning signs of fraud are listed in Appendix B. Examples of controls used to prevent
+and detect fraud are outlined in Appendix C.
+
+Fraud and Theft Response Plan - Purpose
+In summary, the purpose of the Fraud and Theft Response Plan is to define authority levels, responsibilities for
+action and reporting lines in the event of a suspected fraud or financial irregularity. The use of the plan should
+allow the University to:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Respond quickly and professionally to any suspicion or suggestion of fraud or irregularity
+Assign responsibility for initial and subsequent investigation
+Prevent further loss
+Establish and secure evidence necessary for disciplinary and/or criminal action against those who have
+committed the fraud
+Notify the funding council/regulator if required
+Notify the University’s insurers if required
+Minimise and recover losses
+Establish an internal and external communications strategy and process
+Establish the need (or otherwise) for external specialist involvement
+Establish the need for police notification, and the lines of communication
+Review the circumstances of the fraud, actions taken to prevent a recurrence and any action needed
+to strengthen future responses to fraud
+Deal with HR-type issues such as references in relation to staff discipline and/or prosecution for fraud
+
+It is therefore important that the plan covers the following key elements:
+1.
+2.
+3.
+4.
+5.
+6.
+
+Initial Response
+Guidance for Managers on receiving a report of a suspected fraud
+Initial Reporting
+Meeting of the Fraud and Theft Response Team
+Establishing and securing evidence: Interviewing/statements
+Staff under suspicion and prevention of further losses
+2
+
+7. Police involvement
+8. Recovery of losses
+9. Administration, including HR-type issues (such as references)
+10. Ongoing Communicating and Reporting
+11. Final reporting, recommended actions and closure
+
+1. Initial Response
+A fraud or financial irregularity may be discovered in a variety of ways, from your own or a colleague’s
+observations, someone from inside or outside the University ‘blowing the whistle’, financial controls
+identifying a discrepancy, internal or external audit discovering a problem or external bodies identifying an
+issue.
+A fraud or financial irregularity may also come to light through:
+•
+•
+•
+•
+
+The University’s Whistleblowing (Public Interest Disclosure) policy
+The University’s Disciplinary Procedures
+The University’s Procedures for the investigation of Research Misconduct
+Disclosure by the person, or persons, involved
+
+Irrespective of how a potential fraud is discovered, the following - ‘Things to do’, ‘Things not to do’ and ‘Things
+to remember’ - should always be borne in mind:
+Things to do:
+1. Stay calm - remember you are a witness not a complainant
+2. If possible, write down your concerns immediately - make a note of all relevant details such as
+what was said in phone or other conversations, the date, the time and the names of anyone
+involved
+3. Consider the possible risks and outcomes of any immediate action you may take
+4. Make sure that your suspicions are supported by facts, as far as is possible at this stage
+Things not to do:
+1. Don’t become a private detective and personally conduct an investigation or interviews
+2. Don’t approach the person/persons potentially involved (this may lead to conflict, violence,
+him/her destroying evidence etc.)
+3. Don’t discuss your suspicions or case facts with anyone other than those persons referred to
+below (Head of Department and/or the Chief Strategy & Finance Officer and/or the Chief
+People Officer) unless specifically asked to do so by them
+4. Don’t use the process to pursue a personal grievance
+
+Things to remember:
+1. You may be mistaken or there may be an innocent or good explanation - but this will come
+out in the investigation
+2. The fraud response and investigation process may be complex and relatively lengthy and, as a
+consequence, you may not be thanked immediately. Moreover, the situation may lead to a
+period of disquiet or distrust in the University despite you having acted in good faith
+
+2. Guidance for managers on receiving a report of a suspected fraud
+Managers who receive a report of a suspected fraud should:
+3
+
+•
+•
+•
+•
+
+Listen to the concerns of your staff and treat every report you receive seriously and sensitively. Make
+sure that all staff concerned are given a fair hearing, bearing in mind that they could be distressed,
+upset and/or frightened.
+Reassure your staff that they will not suffer because they have told you of their suspicions, as long as
+they are made in good faith.
+Get as much information as possible. Do not interfere with any evidence and make sure it is kept in a
+safe place.
+Ask the member of staff to keep the matter fully confidential in order that it can be investigated
+without alerting the suspected/alleged perpetrator.
+
+3. Initial Reporting
+All actual or suspected incidents should be reported immediately either:
+•
+•
+•
+
+To the Head of Department and/or the Chief Strategy & Finance Officer. The Head of Department
+should then inform the Chief Strategy & Finance Officer or, in their absence, the Chief People Officer
+Via the ‘Reporting a Fraud’ form
+Via the University’s Whistleblowing process; provided reports are made in good faith then an
+individual is generally protected by the University and the law against retribution, harassment or
+victimisation and the individual’s confidentiality must be preserved
+
+If the disclosure involves or implicates any of the individuals identified above then the disclosure should be
+made to the Vice Chancellor and/or the Chair of University Council and/or the Chair of Audit & Risk Committee
+as appropriate.
+On being alerted to circumstances which give rise to suspicion of theft, fraud or corruption, the Chief Strategy
+& Finance Officer, Head of Department and (if deemed necessary, Internal Audit) will then review the
+preliminary findings and, where appropriate, in conjunction with the Chief People Officer decide whether to:
+• Discontinue the investigation if initial suspicions are not confirmed, or
+• Continue with a full internal investigation.
+
+4. Meeting of the Fraud and Theft Response Team
+If required, and as soon as practicable (ideally within 24 hours) a meeting of the Fraud and Theft Response
+Team should be convened, normally consisting of the following group, to decide on the path of action.
+•
+•
+•
+•
+•
+
+Vice-Chancellor or Deputy Vice-Chancellor or Chief Strategy & Finance Officer
+Director of Audit, Risk and Business Continuity
+Chief People Officer
+Head of Finance
+Head of Department/ Head of School
+
+It may also be necessary to involve colleagues in communications if there are potential public relations and/or
+media issues. This group will decide:
+•
+•
+•
+•
+•
+•
+
+Whether an investigation is required
+Who should lead the investigation
+Who should undertake the investigation and the composition of any project group set up to coordinate the investigation
+Whether, and at what stage, Internal Audit need to be involved in the investigation - and whether a
+special audit is warranted
+Whether the University’s insurers need to be informed
+Whether the staff member or members need to be suspended
+4
+
+•
+•
+
+Whether the matter should be reported to the police
+What stakeholder communications should be undertaken at this stage e.g. including notifying DfENI,
+HESA, OfS (or as appropriate)
+Under the current Financial Memorandum, between the University and DfE, the University is required
+to report immediately all suspected, attempted and actual frauds above £5k to the following:
+• chair of the university's Audit & Risk committee
+• chair of the university's governing body
+• university's head of internal audit
+• external auditor
+• permanent secretary of the DfE
+
+Appendix D contains an extract from the Financial Memorandum on responsibilities and reporting.
+
+5. Establishing and securing evidence: Interviewing/statements
+The University will follow standard and established disciplinary procedures against any member of staff who
+has committed fraud. Additionally, the University will normally consider prosecution of any such individual.
+The investigators and Internal Audit will ensure that:
+•
+•
+•
+
+Evidentiary requirements and standards are met during any fraud investigation
+Staff involved in fraud investigations are familiar with and follow rules on the admissibility of
+documentary and other evidence in criminal proceedings
+Where required, external forensic services (such as IT) meet evidentiary requirements and standards,
+such as those relating to continuity of evidence
+
+6. Staff under suspicion and prevention of further loss
+Where the initial investigation provides reasonable grounds for suspecting a member or members of staff of
+fraud, the Fraud and Theft Response Team will decide how to prevent further loss. This may require the
+suspension of the individual(s) suspected of fraud and removal of physical (i.e. campus, building and office)
+and systems access rights. Any suspension will be in accordance with the University’s Disciplinary Procedures
+but it may be necessary to plan the timing of suspensions to prevent individuals from destroying or removing
+evidence that may be needed to support the investigation process. However, it should be recognised that
+there may occasionally be circumstances where it is decided to allow a fraud - and associated losses - to
+continue to identify, for example, further culprits.
+When interviewing employees under suspicion it must be made clear whether it is a formal interview or an
+informal discussion. It should be explained that the University and the interviewers have no pre-set view, the
+suspicion should be outlined and the employee given adequate time to respond.
+Ideally, statements should be taken from witnesses using their own words. The witness must be happy to sign
+the resulting document as a true record - the witness can be given a copy of the statement if desired. It is also
+very important to keep contemporaneous notes on file, in the event that they are needed for future reference
+(e.g. court, tribunal or disciplinary hearing).
+
+7. Police involvement
+At some point a decision will need to be made as to whether an incident is reported to the police. However,
+even if it is reported there needs to be an element of realism as to the likely extent of police involvement. For
+large-scale frauds, it may be appropriate to ask the police to attend meetings of the Fraud and Theft Response
+Team.
+
+5
+
+The lead investigator should prepare an ‘Evidence Pack’ that can be handed to the police at the time the fraud
+is reported, and a Crime Reference Number obtained. The Evidence Pack should include a summary of the
+fraud, highlighting (where known) the amount, the modus operandi, and the location, and include photocopies
+of key supporting documents and contact details of the person leading the investigation. All contact with the
+police should be channelled through one person which would generally be the investigator or, possibly, the
+communications lead (i.e. the person leading the investigation).
+
+8. Recovery of losses
+Recovering losses is clearly a major objective of any fraud response investigation. Internal Audit or those
+investigating the incident should ensure that in all fraud investigations the amount of any loss is quantified.
+Repayment of losses should be sought in all cases. Where the loss is (potentially) substantial, legal advice
+should be obtained without delay about the need to freeze an individual’s assets through the courts pending
+the conclusion of the investigation. Legal advice should also be sought about the prospects for recovering
+losses through the civil court in circumstances where the perpetrator(s) refuse repayment. The University
+would normally expect to recover costs in addition to losses. The University’s insurers should be involved in
+such cases and, indeed, their notification (above) may be a mandatory requirement of cover.
+
+9. Administration, including HR-type issues (such as references)
+Careful administration of the investigation is of vital importance. A disordered investigation, without clear
+records and logs of events, communications, key dates etc., will cause problems at any court hearing, tribunal
+or disciplinary panel. It is equally important that confidentiality is kept both for paper and electronic (e-mail)
+communications. Where e-mail is used for communication, subject names that have no direct link to the
+investigation should, for example, be considered.
+Within the employment law framework, People and Culture must deal with any requests for references from
+staff who have been disciplined or prosecuted for fraud and related issues.
+
+10. Ongoing Communicating and Reporting
+The Fraud and Theft Response Team should provide a confidential and regular report to the Vice Chancellor
+and the Audit Committee (or Chair of Audit & Risk Committee) and other nominated individuals at an agreed
+frequency. The scope of the report should include the circumstances surrounding the case, contributory
+factors and progress with the investigation.
+Any incident meeting the criteria for a report to regulators should be reported without delay to the ViceChancellor, the Chair of the Audit & Risk Committee and the Chair of the Resources Committee where there is
+a (potential) financial loss. The Team should also consider if incidents not meeting the criteria should be
+reported, both to the regulator as well as to sector fraud alert networks (e.g. via BUFDG), to anonymously
+warn other sector bodies of potential risks.
+
+11.
+
+Final reporting, recommended actions and closure
+
+On completion of the investigation the Fraud and Theft Response Team should submit to the Audit & Risk
+Committee a report typically containing:
+•
+•
+
+A description of the incident, including the value of any loss, the people involved and the means of
+perpetrating the fraud
+Actions taken to prevent recurrence, and,
+6
+
+•
+
+A plan detailing any recommendations and actions (with timings) required to strengthen future fraud
+responses
+
+Regular reports on all actual and suspected frauds will be made to the Chief Accounting Officer (ViceChancellor) and Audit & Risk Committee.
+
+7
+
+Appendix A – Sample Definitions
+Fraud:
+• Wrongful or criminal deception intended to result in financial or personal gain
+• A person or thing intended to deceive others, typically by unjustifiably claiming or being credited with
+accomplishments or qualities
+• A false representation of a matter of fact - whether by words or by conduct, by false or misleading
+allegations or by concealment of what should have been disclosed
+• A deception practiced in order to induce another to give up possession of property or surrender a right
+Corruption:
+• The use of public office for private gain
+• Dishonest or fraudulent conduct by those in power, typically involving bribery
+Bribery:
+• The offering, giving, receiving, or soliciting of something of value for the purpose of influencing the action
+of an official in the discharge of his or her duties
+• Money, favour or benefit given or promised in order to influence the judgment or conduct of a person in
+a position of trust
+Theft:
+• The illegal taking of someone else's property without that person's freely-given consent. Apart from the
+obvious theft of physical assets such as computers, stock and money, it includes:
+• Misappropriation of funds
+• Misuse of assets, including cash, stock and other assets, for example ‘borrowing’ petty cash, use of
+photocopiers for private purposes
+• Theft from a client or supplier
+• Theft of intellectual property, including designs and data
+Deception:
+• To intentionally distort the truth in order to mislead others. It would include obtaining property, services
+or pecuniary advantage by deception or evading liability. Deceptions typically include:
+• Misrepresentation of qualifications to obtain employment
+• Obtaining services dishonestly via technology
+• Undeclared and unauthorised private and consultative work
+Forgery:
+• Making or adapting objects or documents with the desire to deceive
+Extortion:
+• Obtaining money or property from another through coercion or intimidation
+Embezzlement
+• Fraudulent appropriation by a person to their own use of property or money entrusted to that person's
+care but owned by someone else
+Conspiracy:
+• An agreement between two or more persons to break the law at some time in the future
+Collusion:
+• Any case in which someone incites, instigates, aids and abets, conspires or attempts to commit any of the
+crimes of fraud
+
+8
+
+Money Laundering:
+• How criminals process illegal or dirty money derived from the proceeds of any illegal activity through a
+succession of transactions and deals until the original source of such funds has been obscured and the
+money take on an appearance of legitimate or clean funds - involves placement, layering and integration
+of the money
+
+Appendix B: Indicators and Warning signs of fraud
+Fraud Indicators can include:
+• Staff exhibiting unusual behaviour (see list above)
+• Missing key documents, especially invoices and/or contracts
+• Inadequate or no separation of duties
+• Documentation which is photocopied or missing key information
+• Missing expenditure vouchers
+• Excessive variations to budgets and/or contracts
+• Bank and ledger reconciliations not regularly preformed and cannot be balanced
+• Numerous adjustments or exceptions
+• Overdue pay or expense advances
+• Duplicate payments
+• Ghost employees on payroll
+• Large payments to individuals
+• Lack of bank account controls
+• Crisis management coupled with a pressured work environment
+• Lowest tenders or quotes passed over without adequate explanation
+• Single vendors
+• Climate of fear/low staff morale
+• Consistent failure to implement key controls
+• Controls frequently overridden
+Warning signs can include:
+• Staff under stress without a high workload
+• Reluctance to take annual leave
+• Being first to arrive in the morning and last to leave in the evening
+• Refusal of promotion
+• Unexplained wealth
+• Sudden change of lifestyle
+• Suppliers/ contractors who insist on only dealing with one staff member
+• Individuals seen as risk-takers or rule-breakers
+• Disgruntled at work and/or not supportive of the University
+
+Appendix C: Examples of controls to prevent and detect fraud
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Comprehensive recruitment procedures, with full reference checks
+Physical security of assets
+Adequate supervision and workload management
+Separation of duties to ensure that key functions and controls are not performed by the same person
+Rotation of staff
+Random spot checks
+Complete and secure audit trails
+Appropriate performance monitoring
+Frequent budgetary and other financial reviews/reports
+Periodic reviews by independent bodies such as Internal Audit
+
+9
+
+Appendix D: Extract from the Financial Memorandum between the University
+and the DfE on responsibilities and reporting
+Annex A - Mandatory requirements of the Financial Memorandum
+and Audit Code of Practice (page 14)
+16. The university's accountable officer must report any material adverse change without delay - such as a
+significant and immediate threat to the university's financial position, significant fraud (attempted or actual
+greater than £5,000) or major accounting breakdown - to all of the following:
+• the chair of the university's audit committee
+• the chair of the university's governing body
+• the university 's head of internal audit
+• the external auditor
+• the Permanent Secretary of the Department as Accounting Officer.
+Annex B-Audit Code of Practice
+Northern Ireland Assembly (page 16)
+11. In the event of any material adverse change in a university's circumstances – such as a significant and
+immediate threat to the institution's financial position, significant fraud or major accounting breakdown - the
+accountable officer must inform, without delay, all of the following:
+• the chair of the university's audit committee
+• the chair of the university's governing body
+• the university's head of internal audit
+• the external auditor
+• the Department's Permanent Secretary as Accounting Officer.
+13. Below, is an indicative list of what should be reported to the Department. The accountable officer, in
+agreement with the governing body, or in urgent cases the chair, may judge that there are other circumstances
+that warrant notification:
+• any theft, fraud, loss of charity assets or other irregularity where the sums of money involved are, or
+potentially are:
+- in excess of £5,000; or
+- where the particulars of the fraud, theft, loss of charity assets or other
+irregularity may reveal a systemic weakness of concern beyond the
+institution, or are novel, unusual or complex; or
+- where there is likely to be public interest because of the nature of the
+fraud, theft, loss of charity assets or other irregularity, or the people
+involved.
+14. There may be cases of fraud, theft, loss of charity assets or other impropriety or irregularity, that fall outside
+this definition. In these cases or any others, universities can seek advice or clarification from the Department. In
+view of the public interest, HEls should normally notify the police of suspected or actual fraud in accordance
+with the Memorandum of Understanding between the Northern Ireland Public Sector and the Police Service of
+Northern Ireland. Where the police are not notified, management should advise the university's audit
+committee of the reason.
+Audit and risk assessment of universities by the HEFCE assurance service (HEFCEAS)
+Reporting (page 18)
+20. HEFCEAS will, when appropriate, draw the attention of the Department's Accounting Officer to material
+adverse changes including significant frauds and any major accounting breakdowns.
+
+10
+
+Internal audit arrangements in HEls (Page 21)
+38. Within the HE sector, the prime responsibility of the internal audit service is to provide the governing body,
+the accountable officer and the other managers of the HEI with assurance on the adequacy and effectiveness of
+risk management, control and governance arrangements. Responsibility for these arrangements remains fully
+with management, who should recognise that internal audit can only provide 'reasonable assurance' and cannot
+provide any guarantee against material errors, loss or fraud. Internal audit also plays a valuable role in helping
+management to improve risk management, control and governance, thereby reducing the effects of any
+material adverse risks faced by the university.
+Operation (Page 22)
+39. A university must ensure that it has effective risk management, control and governance arrangements.
+These help to ensure that:
+d. The university's assets and interests are safeguarded - particularly from losses
+arising from fraud, irregularity or corruption.
+Fraud and corruption (Page 24)
+52. Internal auditors should assess the adequacy of the arrangements to prevent and detect irregularities, fraud
+and corruption. However, the primary responsibility for preventing and detecting corruption, fraud and
+irregularities rests with management, who should institute adequate systems of internal control, including clear
+objectives, segregation of duties and proper authorisation procedures.
+53. The work of the internal audit service, in reviewing the adequacy and effectiveness of the internal control
+system, should help management to prevent and detect fraud. The internal audit service should ensure that it
+has the right to review, appraise and report on the extent to which assets and interests are safeguarded from
+fraud. When internal auditors suspect fraud, or are carrying out a fraud investigation, it is important to
+safeguard evidence. They should assess the extent of complicity to minimise the risk of information being
+provided to those involved, and the risk of misleading information being obtained from them.
+54. The university should ensure that the internal auditor is informed, as soon as possible, of all attempted,
+suspected or actual fraud or irregularity. The internal auditor should consider any implications in relation to the
+internal control system, and make recommendations to management, as appropriate, to strengthen the systems
+and controls.
+
+11
+
+

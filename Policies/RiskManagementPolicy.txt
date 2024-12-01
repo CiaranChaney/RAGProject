@@ -1,0 +1,1290 @@
+Ulster University
+Risk Management Policy and Procedures
+
+1
+
+Table of Contents
+Introduction ......................................................................................................... 4
+Purpose............................................................................................................... 4
+Scope ................................................................................................................. 4
+Approach to Risk Management ............................................................................. 4
+4.1 Why do we need risk management? ..................................................................... 4
+4.2 What are the benefits of Risk Management? ......................................................... 5
+4.3 How do we ensure delivery of these benefits? ....................................................... 6
+5.
+Risk Appetite ....................................................................................................... 6
+6.
+Risk Profile .......................................................................................................... 6
+7.
+Roles and Responsibilities .................................................................................... 6
+8.
+Risk Management Procedures .............................................................................. 8
+8.1
+Risk Identification ........................................................................................... 8
+8.2
+Risk Assessment ............................................................................................ 9
+8.3
+Risk Mitigation ................................................................................................ 9
+8.4
+Risk Monitoring ............................................................................................. 10
+8.5
+Risk Reporting (and Escalation Process) ........................................................ 10
+9.
+Risk Culture and Competencies .......................................................................... 11
+10. Training ............................................................................................................. 12
+11. Appendices ....................................................................................................... 13
+Appendix 1 Risk Appetite Definitions ........................................................................ 13
+Appendix 2 Risk Categories/Subcategories and Appetite Statements ......................... 14
+Appendix 3 Risk Register Template ......................................................................... 16
+Appendix 4 University Risk Impact and Likelihood Matrix .......................................... 17
+Appendix 5 Risk Reporting and Escalation ............................................................... 20
+1.
+2.
+3.
+4.
+
+2
+
+Document Owner
+
+Director of Audit, Risk and Business Continuity
+
+File Name
+
+Risk Management Policy
+
+Version
+
+Reviewed/Approved
+
+By Whom
+
+Date
+
+1.0
+
+Reviewed
+
+SLT
+
+30.08.18
+
+1.0
+
+Approved
+
+Audit Committee
+
+10.09.18
+
+2.0
+
+Reviewed
+
+Deloitte
+
+06.02.23
+
+2.1
+
+Reviewed
+
+Director, Audit, Risk and Business Continuity
+
+13.02.23
+
+2.1
+
+Reviewed and
+Approved
+
+SLT
+
+14.03.23
+
+2.1
+
+Reviewed
+
+ARC
+
+30.03.23
+
+2.2
+
+Reviewed and
+Approved
+
+Council
+
+Expected to be
+19.06.23
+
+Date of next planned review
+
+March 2025
+
+3
+
+1.
+
+Introduction
+
+Ulster University (“the University”) is exposed to a broad range of risks that could affect its academic,
+administrative, or commercial activities. These risks form an inherent part of the execution of the
+University’s processes, governance, and operations and as such, the University recognises that
+management of these risks is essential if it is to achieve its operational aims and strategic objectives
+as outlined in the People Place and Partnerships strategy.
+In developing this Risk Management Policy, the University has been supported by its Internal Auditor
+Deloitte through an assurance review conducted in February 2023. This took into account feedback
+from University leaders on the application of the existing risk management framework as well as
+guidelines set out in The HM Treasury Orange Book 2020 (Management of Risk – Principles and
+Concept). Best practice across the sector has also been incorporated as well as guidance from ISO
+31000:2018 Risk Management.
+
+2.
+
+Purpose
+
+The overarching purpose of this policy is to provide a roadmap for the proactive management of risk
+and its identification at the earliest opportunity in order to implement the most effective solutions to
+manage it effectively.
+The purpose of this policy is therefore to:
+• provide a framework to support the University in formally identifying, assessing, managing,
+mitigating, and reporting on its risks and associated controls on an ongoing basis;
+• establish the roles and responsibilities of key committees, the Senior Leadership Team (SLT),
+the Risk Management Committee and other relevant risk management bodies;
+• outline the procedures for managing and participating in the formal risk management process;
+• identify the main reporting and escalation pathways.
+This document should be read in conjunction with the University’s Risk Appetite Framework and
+Delegated Authority Framework.
+
+3.
+
+Scope
+
+This Risk Management Policy forms part of the University’s internal control and corporate
+governance arrangements and applies to all areas of the University and its activities including major
+infrastructural and research projects. This policy also applies to the University’s related companies.
+The University maintains the following categories of risk registers:
+•
+•
+•
+•
+
+4.
+
+Strategic,
+Directorates (professional services),
+Faculties, and
+Programme and Project (these risk registers follow project management practices).
+
+Approach to Risk Management
+
+4.1 Why do we need risk management?
+As recommended in ISO 31000:2018, managing risk should:
+4
+
+•
+•
+•
+•
+•
+
+be iterative and assist organisations in setting strategy, achieving objectives, and making
+informed decisions;
+be part of governance and leadership, and fundamental to how the organisation is managed
+at all levels;
+contribute to the improvement of management systems;
+be part of all activities associated with an organisation and include interaction with
+stakeholders;
+consider the external and internal context of the organisation, including human behaviour
+and cultural factors.
+
+Ulster University’s approach to Risk Management aims to adhere to the three broad themes of
+Principles, Process and Framework as proposed by ISO and outlined below. A consistent and
+balanced application of all three themes will be required so that managing risk is efficient, effective,
+and consistent.
+
+ISO 31000:2018 Risk Management Guidelines
+
+4.2 What are the benefits of Risk Management?
+Effective risk management:
+•
+•
+•
+•
+•
+•
+
+allows us to identify, understand and manage risks at all levels across the University,
+ensures opportunities are identified and capitalised on,
+guarantees that informed decisions are made,
+increases the probability of success,
+reduces the probability of failure,
+ensures regulatory requirements are met.
+
+Collectively these actions increase the likelihood of the University achieving its strategic aims as
+set out in People, Place and Partnership.
+
+5
+
+4.3 How do we ensure delivery of these benefits?
+•
+•
+•
+•
+•
+•
+
+5.
+
+Methodically assess the University’s risk profile including current risks relating to the
+University’s activities and identify future/emerging risks against the University’s risk appetite.
+Adhere to the requirements to fulfil the University’s Risk Management Procedures and review
+the design adequacy of the process and supporting tools periodically.
+Embed risk management as a continuous and developing process which runs throughout the
+University’s strategy and its implementation.
+Where necessary, assign responsibility for risk management as part of staff member’s job
+description.
+Establish independent testing through Internal Audit of the Risk Management Process, to
+review for operating effectiveness across the University.
+Promote and embed a strong risk culture for the entire University, with an effective policy and
+programme led by SLT.
+
+Risk Appetite
+
+Risk Appetite provides a framework which enables an organisation to make informed management
+decisions. The British Standard BS31100 defines risk appetite as “the amount and type of risk that
+an organisation is prepared to seek, accept or tolerate”. The University has developed a Risk
+Appetite Framework which outlines the types of risk and associated thresholds which the University
+is willing to accept in pursuing its objectives and ensure their monitoring and oversight. The Risk
+Appetite Statements (RAS) indicate the parameters within which the University would want to
+conduct its activities by setting out broadly ‘acceptable’ levels of exposure for each of the University’s
+material risk categories. Appendix 1 defines the risk appetites that the University uses.
+
+6.
+
+Risk Profile
+
+The University is exposed to several risk categories. This is not an exhaustive list and may change
+depending on the nature of the risk. The known risk categories include:
+•
+•
+•
+•
+
+Strategic risk
+Operational risk:
+Financial risk
+Compliance/Legal risk
+
+A series of risk sub-categories have also been identified to align with these risks. Appendix 2
+includes further details on these appetite categories and their statements.
+Strategic
+Capital Risk
+Commercial Risk
+Regional Balance
+
+7.
+
+Operational
+Operations
+IT & Cyber Risk
+Business Continuity Risk
+People Risk
+Health & Safety
+Project/Programme Risk
+
+Financial
+Financial Sustainability
+Fraud
+
+Compliance/Legal
+Governance
+Legal
+Compliance
+
+Roles and Responsibilities
+6
+
+All members of the university community have a responsibility to engage in effective risk
+management and oversee the delivery of effective risk management practice within their areas.
+
+Group/Function
+
+Roles and Responsibilities
+
+Council
+
+•
+•
+•
+•
+•
+•
+
+Audit & Risk
+Committee
+
+•
+•
+•
+
+To set the tone and influence the culture of risk management within the scope
+of its remit.
+Determine the level of risk that the University will carry in relation to specific
+major activities or projects and across the institution.
+Approve major decisions affecting the University’s risk profile or exposure as
+set out in the delegated authority framework.
+Satisfy themselves that less significant risks are being actively managed, with
+appropriate controls in place and working effectively.
+Annually review the University’s approach to risk management and approve
+changes or improvements to key elements of its processes and procedures.
+Publish statements of assurance that the University operates a robust system
+of internal control and comment on the management and mitigation of any risks
+that have arisen during the accounting period.
+Considering its responsibility to oversee the internal and external audit work of
+the University and provide assurance to Council on the effectiveness of the
+University’s system for the management and control of risk.
+Undertake an annual review of the effectiveness of the risk management
+process and provide a report to Council.
+Co-ordinate with Council in respect of its oversight of the University’s risk
+management function including recommending to Council the approval of the:
+▪ University’s Risk Management Policy and any amendments thereto.
+▪ University’s Strategic Risk Register and any issues with the design
+adequacy and operating effectiveness of control.
+▪ University’s risk appetite statements and thresholds
+
+SLT
+
+Led by the Vice Chancellor, SLT members are responsible for effective risk
+management in their areas of responsibility, in accordance with this risk
+management policy and procedures. Key roles of SLT are to:
+• Review annually the institutional risk appetite statements and appetites
+assigned to the categories of risk for consideration and approval by Council.
+• At least three times per year, identify and evaluate all significant strategic risks
+faced by the University for consideration by Audit and Risk Committee and
+Council.
+• Provide accurate information on the status of risks and controls to allow timely
+reporting to SLT, Audit and Risk Committee and Council.
+• Undertake training and development activities associated with risk
+management.
+• Ensure the adoption of risk management amongst their staff.
+
+Chief Strategy and
+Finance Officer
+
+The Chief Strategy and Finance Officer is responsible for ensuring that there is an
+effective risk management framework in place.
+
+Senior Managers
+(e.g., Executive
+Deans, Heads of
+School, Directors)
+Director of Audit,
+Risk, and Business
+Continuity
+
+All senior managers are required to undertake regular reviews and assessment of
+key risks within their areas of operation as part of routine management
+arrangements.
+•
+•
+•
+•
+
+Develop and ensure the provision of adequate risk management training to
+risk owners to facilitate the effective operation of risk management across the
+University.
+Ensure adequate communication of risk management processes across the
+University
+Promote a strong risk management culture.
+Attend Audit and Risk Committee meetings to report on risk, issues and events
+as required.
+7
+
+Group/Function
+
+Roles and Responsibilities
+•
+•
+
+8.
+
+Submit risk management reports on the University risk profile as required.
+Provide secretariat support to the Risk Management Committee.
+
+Risk Management Procedures
+
+The University’s procedures for managing risk are based primarily on the Risk and Control SelfAssessment Process (RCSA). RCSA is a ‘Bottom Up’ process through which risks and associated
+controls are identified, assessed, mitigated, monitored, and reported. It also supports tracking of
+control design deficiencies and any associated remediation plans.
+There are three overarching stages to the RCSA Process:
+
+Prepare
+and Input
+
+Review and
+Challenge
+
+Track and
+Report
+
+containing five specific activities:
+1
+Identifica
+tion
+
+8.1
+
+2
+Assessm
+ent
+
+3
+Mitig
+ation
+
+4
+Monitori
+ng
+
+5
+Reporting
+
+Risk Identification
+
+Risks are identified by considering what could impact on the achievement of the
+University’s/functional area’s objectives. Directorates and Faculties within the University must
+ensure that all relevant key risks are fully reflected on their risk registers. They should identify their
+risks specific to activities performed in their business units. A sample risk register is attached in
+Appendix 3.
+Each risk must be articulated as follows in the description field in the risk register:
+•
+•
+•
+
+One Event (Risk of)
+One Cause (Due to)
+Impact (Resulting in)
+
+The difference between an Event, a Cause and the Impact should be considered:
+Risk Event – can be defined as the actual, single occurrence in a wider process
+Cause – the specific Cause that gives rise to the Event
+Impact – the specific effect the Event will have on the People, Process, Unit
+For the construction of each risk, ensure that the full context of the risk is understood:
+•
+•
+•
+•
+
+The activity being executed
+The operational or regulatory compliance risk Event that may materialise
+What specific Causes may result in the risk Event materialising
+The Impact of the occurrence
+
+e.g., Risk of data breach due to staff error resulting in regulatory censure.
+8
+
+8.2
+
+Risk Assessment
+
+All identified risks need to be assessed based on the likelihood that they will occur, and their impact
+should they materialise.
+Likelihood: The likelihood of occurrence is estimated on a scale of 1 to 5 where 1 is very remote, if
+ever, and 5 is highly likely i.e., unavoidable/already happening.
+Impact: The impact on Ulster University if the risk materialises is estimated using a scale of 1 to 5,
+where 1 is equivalent to having an insignificant impact and 5 is equivalent to having a severe impact.
+Risk assessment should be completed for inherent risk (i.e., the level of risk in the absence of any
+controls) and residual risk (i.e., the level of risk taking into consideration the current controls in
+place).
+The University has developed and uses risk criteria based on a 5 x 5 scoring methodology as set
+out in Appendix 4. Applying this methodology assists in the ranking of risks.
+The heat map below demonstrates the resulting levels of risk after assessing the likelihood and
+impact. The table below provides an explanation of these risk scores and any actions required.
+
+Score
+
+Explanation
+
+1-4 Low
+5-12
+Medium
+15-25 High
+
+Low level risk which is under control but should be reviewed twice yearly.
+Medium level risk which needs managed and reviewed quarterly
+•
+•
+•
+•
+•
+
+8.3
+
+High level risk which should be monitored and reviewed monthly.
+Within Faculties and Directorates, these high-level risks should be reviewed by the senior
+management team within the respective area.
+All High-level risks (i.e., with a net score of 15 or more), will be considered by the Risk
+Management Committee on a quarterly basis. Any impact at a Strategic level will be
+reported to SLT on a quarterly basis.
+All strategic risks will be presented to each meeting of the Audit and Risk Committee.
+Senior Risk owners will present on their specific risks and response plans to Audit and Risk
+Committee on a rotational basis.
+
+Risk Mitigation
+
+The likelihood and/or impact of a risk can be reduced by following several treatment strategies which
+include:
+9
+
+•
+•
+•
+•
+
+Improving the effectiveness of existing controls.
+Implementing a new control(s) to mitigate the risk (either decrease the probability of the event
+happening and/or decreasing the consequences if the event were to occur).
+Transferring the risk such as outsourcing certain activities to a third party or obtaining
+insurance against the impact of a risk; and/or
+Terminating or avoiding the activity or process in which the risk has been identified.
+
+Current controls recorded on the risk register should be operational controls that are executed in the
+functional area. If relevant controls are executed in another area, the control details will be recorded,
+and the information used to arrive at the residual score.
+The control description should outline the following detail:
+• Who is operating the control?
+• What is the control doing?
+• When is it being performed?
+• Why is it being performed
+• Where is the evidence of control execution maintained?
+Every risk identified will have a completed Risk Response Plan (RRP). The RRP template will be
+generated automatically using Power BI and will contain key information in relation to the risk. Each
+functional area will be expected to outline further controls or actions, the owner of these controls and
+a timeline for their implementation.
+
+8.4
+
+Risk Monitoring
+
+The monitoring of risk is implicit in the daily business of all areas of the University. However, the
+University and its functional areas should ensure that risks and controls are monitored formally by
+reviewing and updating its risk registers as set out in section 7.5 below.
+
+8.5
+
+Risk Reporting (and Escalation Process)
+
+It is expected that reporting on risk will include, but should not be limited to, the following:
+• Changes to the risk profile, in particular those significant risks which are increasing or
+decreasing
+• New and outstanding actions plans to remediate or enhance controls that mitigate significant
+risks
+• New and emerging risks as identified within the reporting period; and
+• Risk incidents or breaches identified within the reporting period.
+The University’s Risk Appetite Framework is designed to allow for the identification and escalation
+of those risks that have exceeded the tolerance level of acceptance.
+To maximise the benefits of risk management, it is essential that risk owners engage fully with the
+process so that the reporting, and consequently the effective management of risk is optimised. In
+In addition to regular reviewing, risks should be identified and recorded on the relevant registers
+below:
+•
+
+Strategic Risk Register: The Strategic Risk Register is formally reviewed at least three times
+per year by the Risk Management Committee. It is then presented to the Senior Leadership
+Team for approval. Audit and Risk Committee will also receive the SRR, with significant
+changes reported through to Council as appropriate. The SRR is presented to Council
+annually as part of the annual accountability/ financial statements sign off.
+10
+
+•
+
+Faculty and Directorate Risk Registers: Executive Deans and Directors are required to
+regularly review and update their risk registers at management meetings (a minimum of 3
+times per year). High level risks will be reported to each meeting of the Risk Management
+Committee.
+
+•
+
+Project Risk Registers: Project risk registers are the responsibility of each Project Board.
+High level risks should be escalated to each Programme Board meeting and/or Project
+Sponsor.
+
+All residual high-level risks should be escalated to the Risk Management Committee. Where the
+proximity of the risk event occurring is a factor and the Committee meeting not scheduled for some
+time, the residual high-level risk should be escalated to the Strategic Leadership Team for
+consideration.
+The reporting requirements for effective risk management across the University are outlined below.
+Group
+
+Role
+
+Receives reports from
+
+Reports to
+
+Executive Deans
+
+Identify, manage, and report on
+their Faculty’s risks
+
+DVC
+
+Directors
+
+Identify, manage, and report on
+risks within their own business
+areas
+Collate and oversee all faculty
+risks
+Identify, manage, and report on
+risks within their portfolios
+To review the high-level risks of
+the University and ensure that
+these are appropriately
+documented and managed.
+
+Heads of School, Research
+Directors, School Boards,
+and other Management
+meetings.
+Departments and business
+units within their respective
+areas.
+Faculty Leadership Team
+meetings
+Directors/Managers
+
+DVC
+Senior Officers
+Risk Management
+Committee
+
+Project/Programme
+Sponsors
+
+Identify, manage, and report on
+project/programme risks for
+which they are owner/sponsor
+
+Key business areas of the
+University including
+faculties, professional
+services, and Senior
+Officers
+Project Boards
+
+Risk Management
+Committee and/or
+Portfolio Lead
+Risk Management
+Committee
+Risk Management
+Committee/SLT
+SLT
+
+SLT and/or
+Relevant Boards or
+Sub-Committee of
+Council
+
+Appendix 5 provides a visual guide to the reporting and escalation pathways.
+
+9.
+
+Risk Culture and Competencies
+
+It is widely accepted that risk culture in any organisation is influenced by the “tone from the top''.
+Within the University, a strong risk culture encompasses a general awareness, attitude, and
+behaviour of staff to the taking of appropriate risk, and vitally, the management of these risks.
+The designated Risk Management Committee, senior managers and all staff are required to have
+an appropriate level of understanding of the risk management framework.
+A strong risk culture is about having embedded, functional risk management procedures that foster
+prudent risk management, encourage informed risk‐taking, and ensure that emerging risks or risk‐
+taking activities outside the University’s Risk Appetite Framework are documented, analysed,
+escalated, and mitigated within an appropriate timeframe.
+Fostering and embedding an appropriate risk culture must emanate from:
+11
+
+•
+•
+•
+•
+•
+•
+•
+
+A top-down approach (tone from the top) that models Senior Management behaviour and
+core values
+An explicit and well‐known Risk Appetite Statement
+Transparent and consistent decision-making processes
+Clear roles and accountability for controls and attestation
+Clear escalation points that allow for prompt reporting of issues
+The identification of weaknesses around controls and appropriate remedial actions
+Creating learning opportunities out of failures and striving to constantly improve and
+
+10. Training
+Targeted technical training should be provided on the risk management process e.g., training on
+conducting risk identification, assessment and the codification of risk and control on the risk register.
+Senior Managers are responsible for ensuring that the right staff members are identified to attend
+the training sessions.
+
+12
+
+11. Appendices
+Appendix 1 Risk Appetite Definitions
+
+Lower
+Higher
+Averse
+Avoidance of
+risk and
+uncertainty is a
+key University
+Objective
+
+Low Risk
+Appetite
+
+Appetite for Risk
+Higher
+Minimising
+
+Cautious
+
+Risk Taking
+
+Risk Seeking
+
+Preference for
+ultra-safe
+business
+delivery options
+that have a low
+degree of
+inherent risk
+and only have
+a potential for
+limited reward
+
+Preference for
+safe delivery
+options that have
+a low degree of
+inherent risk and
+only have a
+potential for
+limited reward
+
+Willing to consider
+all potential for
+delivery options &
+chose the one that
+is most likely to
+result in successful
+delivery while also
+providing an
+acceptable level of
+reward and value
+for money
+
+Eager to be
+innovative and
+chose options
+offering
+potentially high
+rewards despite
+greater risks
+
+Low to
+Medium Risk
+Appetite
+
+Medium Risk
+Appetite
+
+Medium to High
+Risk Appetite
+
+High Risk
+Appetite
+
+13
+
+Appendix 2 Risk Categories/Subcategories and Appetite Statements
+Risk Category
+
+Risk Subcategory
+
+Capital risk
+
+Commercial risk
+Strategy
+
+Regional Balance
+
+Operations
+
+IT & Cyber Risk
+
+Operational
+
+Business
+Continuity Risk
+
+People Risk
+
+Risk Appetite Statement
+The University has adopted a cautious approach towards poorly
+designed capital development programmes relating to the design of
+strategic development of property and the University’s estate.
+Cautious
+The University has adopted a risk-taking approach relating to an
+entrepreneurial approach around income diversification and embarking
+on new opportunities.
+Risk Taking
+Ulster University is committed to a multi-campus university model that
+creates shared spaces where people can co-locate and build
+communities of research-led learning across each of the campuses. The
+University has adopted a risk-taking approach to regional balance that
+recognises the University’s unique position to stimulate and drive
+forward balanced regional development.
+Risk Taking
+A degree of risk is implicitly built into continued growth, new approaches
+and intended change. The University wishes to continue to develop
+teaching and research excellence and student experience. Risk to the
+University’s operations will be mitigated through drawing from
+experienced staff and learning from proven effective practice from other
+universities within the sector.
+Risk Taking
+The University is risk averse to disruption in relation to IT & Cyber Risk
+and has no tolerance for Cyber Risk breaches. The University
+continuously monitors developments and potential threats and has
+established a robust control environment including vulnerability
+assessments and penetration testing to protect the organisation from
+cyber-attacks.
+Risk Averse
+The University is risk averse to material business disruption of its
+operations and/or services to key stakeholders which could result in
+failure for the University to deliver its strategic objectives and/or lead to
+reputational damage.
+Risk Averse
+The University aims to value, support, develop and utilise the full
+potential of our staff to make the University a stimulating and safe place
+to work. It places importance on a culture of academic freedom, equality
+and diversity, dignity and respect, collegiality, annual reviews, the
+development of staff, work-life balance, and the health and safety of
+staff, students, and visitors. The University is also committed to
+enhancing the learning and social experiences of students. The
+University wishes to minimise any deviations from its standards in these
+areas.
+Cautious
+
+Health & Safety
+
+The University has zero tolerance towards the well-being and health and
+safety of its students, staff, visitors, and contractors. It will have
+mitigation in place to ensure that adequate controls are in place to
+prevent and detect any health hazards in the Institution.
+Risk Averse
+14
+
+Risk Category
+
+Risk Subcategory
+
+Project/Programm
+e Risk
+
+Financial
+Sustainability
+Financial
+
+Risk Appetite Statement
+The University understands there is a risk that programmes and projects
+are not aligned with strategic priorities and do not successfully and
+safely deliver requirements and intended benefits to time, cost and
+quality. The University is a risk taker when it comes to project and
+change risks as it has a broad range of projects / change programmes
+underway to support its strategic growth objectives. The University is
+committed to ensuring that projects and any associated change is
+robustly managed to minimise the risk of negative impact on existing
+business, process, technology, or University structures.
+Risk Taking
+The University has a Cautious approach to Financial Sustainability Risk
+and operates a sustainable finance strategy due to our innovative culture
+and willingness to consider and pursue new opportunities to support the
+delivery of our three overarching aims within the People, Place and
+Partnership Strategy. The University's cautious risk appetite in financial
+risk is reflective of the fact that in the pursuit of increase in financial
+reward, it is at times appropriate to accept (in this case medium) level of
+financial or commercial risk while at the same time proceeding with
+caution.
+Cautious
+The University is risk averse to any exposure to fraudulent activities.
+
+Fraud
+
+Governance
+
+Compliance/
+Legal
+
+Legal
+
+Compliance
+
+Risk Averse
+The University has a cautious approach to risks arising from unclear
+plans, priorities, authorities, and accountabilities, and/or ineffective or
+disproportionate oversight of decision-making and/or performance either
+within the University itself or in relation to any partnerships (educational,
+commercial or research) that it may enter into.
+Cautious
+The University is averse to risks arising from a defective transaction, a
+claim being made (including a defence to a claim or a counterclaim) or
+some other legal event occurring that results in a liability or other loss, or
+a failure to take appropriate measures to meet legal or regulatory
+requirements or to protect assets (for example, intellectual property).
+Risk Averse
+The University aims to be compliant with all laws and regulations
+governing its operations and activities. The University is averse to any
+risk related to Compliance Risks (including GDPR and Health and
+Safety), which could result in exposure to systemic or material regulatory
+breaches.
+Risk Averse
+
+15
+
+Appendix 3 Risk Register Template
+
+16
+
+Appendix 4 University Risk Impact and Likelihood Matrix
+RISK IMPACT CATEGORIES
+
+Category →
+Student Experience
+
+Strategy and Policy
+
+Minor impact affecting
+single programme, but
+which is unlikely to
+have a material impact
+on NSS scores or
+retention
+
+Impacts on minor part of
+one strategic priority but
+not significant enough to
+require modifying the
+strategy
+
+Financial
+
+Impact 
+Insignificant (1)
+
+Minor (2)
+
+Moderate (3)
+
+Minor impact affecting
+several
+programmes/large
+group of students but
+which is unlikely to
+have a material impact
+on NSS scores or
+retention
+
+Impacts on some aspects
+of one or more strategic
+priorities but not
+significant enough to
+require modifying the
+strategy
+
+Moderate impact
+affecting local
+programme area which
+will have a material
+impact on the
+programme level NSS
+scores and/or retention
+
+Restricts ability to achieve
+one or more strategic
+priorities requiring some
+modification to parts of
+strategy.
+
+Impact on budget or
+additional
+expenditure/(income):
+Capital <£100k
+Revenue < £25k recurrent
+
+Impact on budget or
+additional
+expenditure/(income):
+Capital £100k-£500k
+Revenue £25k-£100k
+
+Impact on budget or
+additional
+expenditure/(income):
+Capital £0.5M-£1M
+Revenue £100k-£500k
+recurrent
+
+Operational Performance/Business
+Continuity
+
+Reputation/Publicity
+
+Disruption to potential
+customer/contract/bid.
+
+Negligible criticism / (praise) in specialist local
+press.
+
+Manageable disruption to minor services
+resulting in no obvious loss of
+performance.
+
+Negligible impact on student recruitment,
+relationship with funding bodies or partners.
+
+Interruption of critical services >1 hour.
+Unhappy customer/partner. Loss of
+potential new customer/contract/bid.
+Manageable disruption to some services
+resulting in no loss of performance but
+requiring additional staff and interim
+working arrangements.
+Interruption of critical services >3 hours.
+Loss of minor
+customer/contract/partnership/ bid.
+Moderate disruption to some services
+resulting in temporary loss of performance
+affecting some programmes.
+
+Fully recoverable within 1 day.
+
+Some superficial
+injuries.
+
+Programme / discipline area criticised /
+(praised) in local press.
+
+Moderate impact
+leading to warning.
+
+Short term disruption to student recruitment,
+relationship with funding bodies or partners.
+
+Some minor reversible
+injuries.
+
+Recoverable within 1 week.
+
+University criticised / (praised) in local press.
+Medium term impact on student recruitment,
+relationship with funding bodies or partners.
+Recoverable within 1 month.
+
+Interruption of critical services >6 hours.
+Major (4)
+
+High impact affecting
+large number of
+students which will
+have a significant effect
+on overall School level
+NSS scores and/or
+retention
+
+Prevents successful
+achievement of one
+strategic priority resulting
+in parts of strategy
+needing to be revised.
+
+Impact on budget or
+additional
+expenditure/(income):
+Capital £1M-£5M
+Revenue £0.5M-£1M
+recurrent
+
+Loss of mid-sized customer /
+contract/partnership/bid.
+
+University criticised / (praised) in national
+press.
+
+Inability to deliver core service resulting in
+noticeable loss of performance affecting
+ability to deliver programmes
+
+Long term impact on student recruitment,
+relationship with funding bodies or partners.
+Recoverable within 6 months.
+
+Interruption of critical services >12 hours.
+
+Severe (5)
+
+Severe impact affecting
+large numbers of
+students which will
+have a significant effect
+on University level NSS
+scores and/or retention
+
+Prevents successful
+achievement of several
+strategic priorities
+resulting in strategy
+needing to be revised.
+
+Impact on budget or
+additional
+expenditure/(income):
+Capital >£5M
+Revenue>£1M recurrent
+
+Loss of major customer /
+contract/partnership/bid.
+
+Legal/Regulatory
+Compliance /
+Governance / Health
+& Safety
+Minor impact. No
+reprimand, sanction,
+or legal action.
+
+Severe criticism / (praise) in national press.
+
+Inability to deliver core service resulting in
+stopping delivery of programmes.
+
+Permanent impact on student recruitment;
+irreparable damage to relationships with
+funding bodies and significant partners.
+
+Interruption of critical services >24 hours.
+
+>12 months to restore level of credibility.
+
+Significant legislative
+breach resulting in
+investigation.
+Major reversible injury
+to staff, student, or
+member of public. Not
+life threatening.
+Serious legislative
+breach resulting in
+intervention,
+sanctions, and legal
+action.
+Major irreversible
+injury or death of staff,
+student, or member of
+public.
+Major legislative
+breach resulting in
+suspension of
+business.
+Multiple major
+irreversible injuries or
+
+17
+
+deaths of staff,
+students, or members
+of the public.
+
+18
+
+QUANTATATIVE MEASURES OF LIKELIHOOD
+Score
+
+Descriptor
+
+Very remote (1)
+
+<5%
+
+1 in 20 chance or less frequent
+
+Remote (2)
+
+6% - 25%
+
+1 in 20 chance to a 1 in 4 chance
+
+Possible (3)
+
+26% - 50%
+
+1 in 4 chance to a 1 in 2 chance
+
+Probable (4)
+
+51% -75%
+
+Highly likely (5)
+
+> 71%
+
+Description
+
+1 in 2 chance to a 3 out of 4
+chance
+3 out of 4 chance or more
+frequently
+
+19
+
+Appendix 5 Risk Reporting and Escalation
+
+Council
+
+ARC
+
+SLT
+
+RMC
+
+DVC
+
+Faculties
+
+School Boards
+Research
+Institutes
+
+Portfolio
+
+Professional
+Services
+
+Business Units
+Departments
+
+Project
+Owners
+
+Project Boards
+
+20
+
+

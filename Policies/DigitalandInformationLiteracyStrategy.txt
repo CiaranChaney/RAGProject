@@ -1,0 +1,487 @@
+Ulster University
+Library
+Digital and Information Literacy Strategy
+2017 - 2021
+
+This Digital and Information Literacy Strategy for 2017-2021 revises and updates the first
+Library Information Literacy Strategy, 2012-2015.
+
+The new Strategy builds on the previous Strategy and has been renamed Digital and
+Information Literacy Strategy to reflect the importance of developing digital literacies along
+with the application of new technologies to support engagement and interactivity in the learning
+environment.
+The Strategy is aligned to the University’s “Five and Fifty” strategic plan and literacies of the
+Library Services Strategy.
+The new Strategy emphasises the concept of digital information literacy supported by
+application of new and emerging technologies
+
+
+
+
+
+enhance the delivery of digital information literacy
+support increased active, flexible and collaborative learning
+reflect recent changes in learning pedagogies and support the curriculum change
+process
+recognise the importance, and promote the acquisition, of core digital skills for
+successful study, employability and lifelong learning.
+
+2
+Ulster University
+Digital Information Literacy Strategy
+Version
+1.0
+
+Date
+3.2.2017
+
+1.1
+
+13.2.2017
+
+1.2
+
+17.2.2017
+
+1.3
+1.4
+1.5
+
+16 5.2017
+23.5.2017
+23.6.2017
+
+1.6
+1.7
+1.75
+1.8
+
+10.07.2017
+19.7.2017
+11.9.17
+2.11.2017
+
+1.85
+
+3.11.2017
+
+1.9
+
+13.11.2017
+
+Author
+Jayne Dunlop Chair DIL
+Subgroup
+
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+Description
+First draft of SPs and appendix A
+Amends following consultation with
+Librarian
+Updated by DIL subgroup,
+introduction added.
+LMT amendments
+Passed by DIL subgroup
+Amendments following subject team
+day SP2 SO4 and SO5 combined
+and key success criteria amended to
+reflect the change.
+Amendments following June LMT
+Amendments from Librarian
+Further amendments from Librarian
+Review by PVC (Education)
+Review by PVC (Research and
+Impact)
+Review by UUSU Executive
+Review by Associate Deans
+(Education) & (Research and Impact)
+Addition of cover sheet highlighting
+differences between this strategy
+and its predecessor
+Minor textual changes following
+comments by Associate Deans
+
+3
+Executive Summary
+Introduction
+This strategy document outlines the programme of work to be led by the Digital and Information Literacy (DIL)
+Sub Group during the period 2017-2021 in support of academic excellence at Ulster.
+This strategy seeks to build on the work of the previous Information Literacy Strategy by continuing to seek new
+and innovative ways to deliver Information Literacy support to students and staff. The remit of the strategy has
+expanded to take cognisance of the increased use of digital resources and the growing reliance on emerging
+technologies by students, and the recognition of the importance of core digital skills for successful study,
+employability and lifelong learning.
+Digital literacy builds upon traditional information literacy and “goes beyond this to encompass communication,
+collaboration and teamwork, social awareness in the digital environment, understanding of e-safety and creation
+of new information. Both digital and information literacy are underpinned by critical thinking and evaluation.” 1
+The Library Service provides a wide range of information in electronic form and already uses new and emerging
+technologies in teaching. In this revised and updated Digital and Information Literacy Strategy, the Library
+Service wishes to formalise the development opportunities currently offered to students at all levels. The Strategy
+will encourage closer collaboration between academic staff and subject librarians in order to support and improve
+integration of digital and information skills into university programmes through increased incorporation of digital
+technologies and active learning approaches in library teaching, in keeping with the University’s student learning
+experience principles and emerging pedagogic approaches to learning and teaching at Ulster.
+Context
+The importance of digital and information literacy is recognised not only by those working in the information field
+but also by employers, professional associations and the Government as an important graduate attribute that is
+applicable to study, employment and lifelong learning.
+The development of digital literacy skills forms one of the six Student Experience Principles to equip students “for
+living, learning, communicating and working in a digital world and to maximize their employability”. 2
+This strategy aims to build upon the former information literacy strategy with the development of core digital
+literacy skills, encouraging the increased use of technologies in delivering information literacy skills sessions,
+facilitating flexible approaches and embracing the concept of technology-enhanced learning. It also aims to
+promote the critical importance of digital and information literacy especially in the context of university learning
+and teaching to:
+
+
+
+
+Identify the digital and information literacy competencies students require in order to benefit fully from
+their research and studies. The competencies can be consulted on the Digital and Information Literacy
+Skills online guide at http://guides.library.ulster.ac.uk/ld.php?content_id=31385520
+Demonstrate ways in which these competencies can be acquired in a discipline-specific context
+Collaborate with academic colleagues in improving digital literacy skills.
+
+The Strategy aligns to the following University Strategies
+
+
+
+
+
+
+
+SP “Five and Fifty”
+Digital Futures Strategy
+Learning and Teaching Strategy
+Research and Impact Strategy
+Internationalisation Strategy
+Library Services Strategy
+
+1 Open University (2016) Digital and Information Framework. Available at
+
+http://www.open.ac.uk/libraryservices/subsites/dilframework/ (Accessed 14 April 2016)
+2 Ulster University (2015) Programme Approval Management and Review Handbook. Available at
+http://www.ulster.ac.uk/academicoffice/download/Handbooks/PAMR.pdf (Accessed 15 April 2016) p57
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+4
+Key dependencies
+For a Digital and Information Literacy Strategy to be adopted and embedded, it requires both institutional and
+faculty commitment. The vision is for a university where digital and information literacy learning opportunities are
+fully integrated into the academic curriculum in a timely and relevant manner and where subject librarians and
+academic staff are partners in ensuring that all students have the opportunity to gain these critical lifelong
+independent learning skills. The Library already works collaboratively across a broad range of business areas to
+include academic staff, Research and Impact, Staff Development, Access, Digital and Distributed Learning and
+the International Department to support the delivery of digital and information literacy to all users.
+Digital and information literacy, vision, mission and values.
+The Digital and Information Literacy Strategy fully supports the Library Service’s vision and mission, and
+embraces the same values and guiding principles.
+The goal of this strategy is to ensure that all Ulster students, regardless of mode of study, are enabled to become
+digitally and information literate through the provision of effective digital and information literacy learning and
+teaching opportunities.
+This supports the Library’s vision to transform the experience of our users through excellence in the provision
+and development of sustainable library services and resources. Digital and information literacy support at Ulster
+is also a bench marker, which can be used for comparison with other universities.
+The Strategy
+This strategy sits under the Library Services Strategy as a flexible and agile document, which will respond to
+changes in the operating environment as required. It will be reviewed annually by the Library Management Team
+to ensure it adequately supports the Library Services Strategy and meets the needs of stakeholders.
+Strategic Priorities
+The strategy will be operationalised through the delivery of an annual work plan and associated Key Performance
+Indicators.
+Building on the above has led to the development of three strategic priorities which are the key performance
+areas against which the library will seek to deliver its DIL Skills programme in the period 2017/8 – 2020/1.
+SP1 To deliver digital and information literacy skills in support of learning and teaching
+SP2 To deliver enhanced digital and information literacy skills in support of Ulster’s research community.
+SP3 To provide digital and information literacy support for widening participation access at regional, national
+and international levels.
+The following overarching and enabling objectives underpin the delivery of the strategy
+EO1 To promote digital and information literacy provision and deliver evidence of impact.
+EO2 To develop and optimise the library’s physical and virtual presence in line with new pedagogic approaches
+to learning and teaching, facilitating collaboration using active learning spaces and technologies such as
+Blackboard Collaborate and Nearpod.
+EO3 To develop and support library staff to deliver the digital and information literacy.
+Delivering the strategy
+Each strategic priority has a number of supporting objectives aligned to it. The Digital and Information Literacy
+Sub Group will deliver an annual implementation plan, detailing activities and projects based on the supporting
+objectives to operationalize the strategy. The Digital and Information Literacy Sub Group will have oversight of
+the plan and monitor its progress, reporting to the Library Management Team on a regular basis.
+
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+5
+SP1 To deliver Digital and Information Literacy Skills in support of teaching and learning
+
+The library will continue to support academic excellence by developing and enhancing student and
+staff digital and information literacy skills to support teaching and learning.
+
+SO1
+
+Collaborate with academic staff to deliver best practice in digital and information literacy
+through Library induction for new students at Ulster to support retention.
+Collaborate with academic staff through personal contact and formal curriculum
+planning to embed DIL training into the academic curriculum, ensuring timely delivery
+and relevant content.
+Provide DIL skills training that enhances Ulster graduates’ employability, and supports
+development of lifelong learning by promoting library EDGE activity.
+Explore opportunities to use active learning, emerging technologies and personal
+learning devices to deliver DIL.
+Support academic achievement through the promotion and delivery of referencing and
+other study skills support.
+Explore opportunities to enhance further DIL provision for specific user groups,
+including international students, distance learners, part time students and students with
+disabilities.
+Enhance existing support for new members of academic staff to support their teaching
+and raise awareness of DIL.
+
+SO2
+
+SO3
+SO4
+SO5
+SO6
+
+SO7
+
+Key success criteria
+
+
+
+
+
+
+
+
+
+The introduction of new and emerging technologies to enhance the delivery of DIL
+Increased uptake of induction DIL training by new students at Ulster.
+Increased inclusion of DIL in course planning, documentation and delivery.
+Increased student engagement with library EDGE award.
+Increased use of new active learning spaces by library staff delivering DIL.
+Increased uptake in referencing and Refworks classes.
+Increased variety of DIL delivery formats to extend and improve DIL skills support for all
+learners.
+Offer all new academic staff one to one library induction and DIL support and training.
+
+Key risks
+
+
+
+
+Low engagement by academics with Library Digital and Information literacy initiatives
+Low uptake by students of Digital and Information Literacy opportunities
+Lack of engagement by Library staff with active learning spaces and emerging technologies.
+
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+6
+SP2 To deliver enhanced Digital and Information Literacy Skills in support of Ulster’s research
+community.
+
+The Library will continue to develop, enhance and promote Academic Excellence in support of the
+University’s wider Research & Impact Strategy 2017-2022.
+
+SO1
+SO2
+SO3
+
+SO4
+
+SO5
+SO6
+
+Offer all new research staff one-to-one Library and DIL support and training.
+Collaborate with the Research and Impact Office to embed DIL into the new Doctoral
+Development Programme.
+Provide ongoing enhanced digital and information literacy skills support for research
+staff and PhD students taking cognisance of the new research landscape and the
+doctoral college.
+Engage collaboratively at all levels of the research process to fully embed DIL into
+the research cycle, provide enhanced skills support training and contribute to postdoctoral employability.
+Update and inform researchers on current and emerging DIL developments.
+Support operational excellence by utilising emerging technologies to provide DIL
+skills training resources where appropriate.
+
+Key Success Criteria
+
+
+
+
+
+
+
+
+Increased uptake of one-to-one support by new PhD researchers for enhanced digital and
+information literacy skills training.
+Continued delivery of DIL skills as part of a refreshed and enhanced training and development
+programme to be delivered via the Researcher Development Programme.
+Increased use of active learning spaces by library staff delivering DIL to the research
+community.
+Increased satisfaction with range of DIL provision, by PhD researchers, including specific skills
+support to enhance employability.
+Enhanced DIL skill and expertise embedded in the whole research life cycle.
+Increased awareness of current and emerging DIL developments by researchers.
+Increased provision of online DIL skills training resources.
+
+Key Risks
+
+
+
+Failure to engage with new PhD researchers.
+Inability to deliver an enhanced, flexible approach to DIL provision aligned with SP “Five and
+Fifty” and the Research and Impact Strategy, to meet the needs of new PhD researchers, and
+support research output at Ulster.
+
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+7
+SP3 To provide Digital and Information Literacy support for widening participation access at
+regional, national and international levels.
+The Library will continue to deliver DIL services to support the institution’s strategic Global Vision and
+Civic Contribution and promote the Library’s commitment to civic engagement.
+
+SO1
+SO2
+SO3
+SO4
+
+Collaborate with the International Department to provide and improve DIL skills
+training as part of the International Student Induction Programme.
+Collaborate with the Centre for Widening Access and Participation to improve DIL
+support for institutional activities e.g. Taster events.
+Deliver appropriate DIL skills support for Ulster Students taught in Partner
+Institutions.
+Provide enhanced DIL support for students transferring from Partner Institutions.
+
+Key Success Criteria
+
+
+
+
+
+
+Improved delivery of DIL provision as part of the International Student Induction Programme in
+collaboration with the International Department
+Increased international student satisfaction with DIL skills provision.
+Delivery of appropriate DIL skills support for institutional initiatives in conjunction with the Centre
+for Widening Access and Participation.
+Engagement with Partner Institutions to deliver appropriate DIL skills support.
+Increased uptake and satisfaction of enhanced and accelerated DIL support for transfer
+students.
+
+Key Risks
+Inability to provide adequate DIL skills support to international students, those attending and
+transferring from partner institutions and those on widening access programmes.
+
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+8
+EO1
+
+To promote DIL provision and deliver evidence of impact.
+
+DIL activities will seek to deliver Operational Excellence through appropriate analysis and utilization
+of relevant business intelligence.
+SO1
+SO2
+SO3
+
+SO4
+
+Application of current and emerging digital tools to market, promote and measure
+DIL provision.
+Develop infographics based on core statistics to market and promote library DIL
+activity.
+Liaise with Library’s Head of Customer Focus and Business Support to develop
+existing data collection to provide a quantitative assessment of DIL activity uptake
+across all modes of study.
+Develop a range of qualitative and quantitative tools to evaluate impact of DIL
+activity.
+
+Key success criteria
+
+
+
+Development of a range of tools to assess uptake and impact of library DIL activity.
+Development of resource, including online booking system (e.g. LibCal) to market and promote
+library DIL activity.
+
+Key risks
+Failure to promote DIL adequately and inability to develop appropriate measures of the extent
+of DIL delivery and its effectiveness.
+EO2 To develop and optimise the library’s physical and virtual presence as per E02 on Page 2,
+in line with new learning pedagogies.
+
+SO1
+SO2
+
+Deliver engaging and collaborative DIL activities using both existing and next
+generation flexible learning spaces and emerging technologies.
+Enhance existing library subject web content using Libguides 2.0.
+
+Key success criteria
+
+
+
+
+Increased use of active, flexible and personalised learning in library DIL activities.
+Development, promotion and ethical reuse of DIL web content on Libguides and other
+platforms.
+Increased use of current (e.g. Libguides, Nearpod etc.) and other emerging technologies to
+improve active learning.
+
+Key risks
+Inability of library subject teams, academic staff and students to engage with new learning
+landscapes and technologies.
+
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+9
+EO3
+
+SO1
+
+SO2
+
+To develop and support library staff in delivery of DIL.
+
+Enhance and develop Subject Librarians’ DIL skills through attendance at relevant
+professional courses, conferences and training events, and by encouraging subject
+staff engagement with PgCHEP, CHERP and HEA activity.
+Encourage development of core DIL competencies in frontline staff, to further
+support active learning in library DIL induction and subject sessions.
+
+Key success criteria
+Increased engagement of all library staff in DIL developmental opportunities.
+Key risks
+Inability to harness adequate financial resources to enable staff to attend training events and
+develop their DIL skills.
+
+Digital Literacy Strategy
+V. 1.9
+Final
+Digital and Information Literacy Sub Group
+
+
