@@ -1,0 +1,2140 @@
+May 2019
+
+Signage Protocol Guidelines
+
+Contents
+
+01
+
+02
+03
+
+04
+
+05
+
+What is Wayfinding?
+Why do we Need a Strategy?
+Design Solution
+Brand Assets
+Application Principles
+Language Conventions
+Process
+Kit of Parts
+External
+Internal
+Scoping
+Principles
+External
+Unique Signage
+Construction & Application
+External Construction & Application
+Internal Construction & Application
+Braille
+Additional Considerations
+Funder Acknowledgement
+Non-Branded Areas
+Further Wayfinding
+
+3
+4
+6
+7
+8
+8
+9
+10
+11
+22
+30
+31
+32
+35
+38
+39
+53
+62
+63
+64
+64
+65
+
+01
+What is wayfinding?
+
+Wayfinding refers to an information system that guides people through a physical
+environment. A good system enhances their understanding and experience of the
+space and creates a 'sense of place'.
+Wayfinding is particularly important for Ulster University due to its varied and
+complex campus structures. As each campus develops it becomes more complicated,
+so people need visual cues such as maps, directions, and symbols to help guide them
+to their destinations. In these often high-stress environments, effective wayfinding
+systems contribute to a sense of well-being, safety and security.
+A robust wayfinding strategy will help us meet some of the University objectives
+in our Professional Services 5&50 Strategy.
+
+Purpose
+
+Principles
+
+Objectives
+
+At all times, students, staff and
+visitors should:
+– Know where they are.
+– Know where they’re going.
+– Easily follow the best route to
+their destination.
+– Recognise their destination
+upon arrival.
+– Feel confident and reassured.
+
+Signage should:
+– Only be used where necessary.
+– Be easily noticed.
+– Be clear and easy to understand.
+– Have a clear hierarchy of information.
+
+A solution befitting of a world-class institution:
+– A warm welcome.
+– A powerful first and lasting impression.
+–	An efficient and rewarding user journey.
+– A robust, functional and re-usable system.
+–	Consistent across each campus.
+– Increase brand recognition.
+–	Clear, accessible and inclusive.
+–	High quality, ethical and sustainable.
+– Help meet the University objectives in our
+PS5&50 Strategy.
+
+Why do we Need a Strategy?
+4
+
+Signage across Ulster University has been installed on-demand as each campus
+has grown and developed. This approach has worked for individual buildings, but not
+for the University as a whole. The absence of strategy or guidance has resulted in
+a disparate, over-populated set of signs which is confusing for students, staff and
+visitors. This inadequate user experience will have a direct, negative impact on the
+Ulster University brand.
+
+Inconsistent Messaging
+– 10 metres.
+– 10 sign types.
+
+Inconsistent Appearance
+– Colour.
+– Materials.
+– Position.
+– Colour.
+– Scale.
+– Finish.
+
+– Labelling.
+– Iconography.
+– Typefaces.
+
+Why do we Need a Strategy?
+5
+
+A clear strategy defines
+a consistent approach,
+making future signage
+efficient and cost-effective.
+Crucially, users who
+experience a seamless
+journey are much more
+likely to appreciate their
+surroundings and leave
+with a positive experience.
+
+Benefits
+of Consistency
+
+MAXIMISE
+
+MAXIMISE
+
+MAXIMISE
+
+Longevity
+
+Reliability
+
+Accessibility
+
+MINIMISE
+
+MINIMISE
+
+MINIMISE
+
+Signage
+Sizes
+
+Production
+Techniques
+
+Material
+Options
+
+Design Solution
+
+We have embarked on a robust design process to conceive a solution that is:
+— Future-proof
+No superfluous or ephemeral elements.
+Interchangeable panels.
+
+— Accessible and readable
+High contrast colours. Large sans-serif typeface.
+Braille equivalents where appropriate.
+
+— Recognisable
+Visually consistent.
+Clear association with the university.
+
+— Streamlined
+Fewer signs in highly visible, logical locations.
+
+— Cost-effective
+Free, open source typeface. Minimal component parts.
+Standardised sizes, materials and production techniques.
+
+— Meaningful and usable
+	Succinct, firm and polite content. Universal pictograms. Heads-up mapping.
+Illustrated landmarks. ‘You are here’ markers with walking radius.
+
+6
+
+Brand Assets
+
+Our wayfinding system is built using our core brand assets: logo, colour and type.
+Our system intentionally avoids graphic devices, brand patterns and imagery that
+could easily date and distract from our content. Removing all superfluous elements
+maximises readability and helps weather future brand identity changes.
+
+Pantone
+282C
+
+White
+
+Pantone
+Cool Gray 5C
+
+RAL 5011
+Steel Blue
+
+RAL 9016
+Traffic White
+
+RAL 7038
+Agate Grey
+
+Brand palette
+High contrast with a complimentary, neutral mid-colour.
+
+Maps
+2D maps with 3D landmarks. Clear, universal and
+functional, using head-up orientation. See p.15.
+
+Barlow
+Semi–Condensed
+Logo
+Single colour logo.
+
+7
+
+Wayfinding typeface
+Free and open source. Inspired by the standard traffic
+sign typeface 'DIN'. Available to download from:
+fonts.google.com/specimen/Barlow+Semi+Condensed
+
+Pictograms
+Universal, clear and immediate.
+
+New builds and historic buildings
+– Same approach across all architectural styles.
+– Ensures consistency and reinforces unity.
+Use of logo
+– External signage: Full logo (May change based on logo plate route).
+–	Internal signage: 'U' icon (Maintains brand recognition without
+distracting from wayfinding text).
+Sign positioning
+– All signage should be prominently positioned to be instantly visible.
+–	Lighting, reflections, sight lines, vehicles, people and other potential
+obstructions should always be considered.
+External
+– Interchangeable panels for flexibility and longevity.
+– Cost-effective to re-skin should the University logo change.
+–	Stacked signage is interchangeable to accommodate future changes.
+Internal
+– No inserts, sliders or other devices that require maintenance.
+–	Interchangeable components to accommodate future changes.
+
+8
+
+Language Conventions
+
+Application Principles
+
+Colour
+– Single approach across Belfast, Coleraine and Magee campuses.
+– A unified approach ensures consistency and builds brand recognition.
+–	No internal colour co-ordination, maximising flexibility and
+accommodation of layout changes.
+
+Meaningful content
+– To be understood quickly, each sign should be as succinct as possible.
+–	Providing too much information can cause confusion and can be
+easily ignored.
+Language
+– Abbreviations, technical terms and jargon should be avoided to
+minimise confusion.
+– Do not use full stops after destination names on signage.
+– Terminology and naming should be consistent throughout.
+Capitalisation
+– Title case (the first letter of each word is capitalised) should be used:
+'Main Entrance & Reception' not 'Main entrance & reception'.
+– The initial capital creates more recognisable shapes out of words
+for improved readability.
+– Title case is generally associated with authority and importance,
+so is more fitting for wayfinding.
+Campus and building naming
+–	Buildings should be identified by their code (e.g. 'BA'), until building
+names are agreed. Thereafter, all buildings should be referred to by
+name, not code.
+Braille
+– Unified English Braille should be used to the following signage
+categories: Welcome / Site Orientation / Level Directories /
+Directional / Room Identifiers / Informative.
+– Grade 2 Braille should be used for longer descriptions and sentences.
+– See p.59 for more detailed applications guidance.
+
+Process
+9
+
+The following process outlines the steps required to establish
+and implement an effective wayfinding system.
+
+1 2 3 4 5 6
+Scope area
+
+Check planning
+permission
+
+Create
+specification
+
+Procure
+production
+& artwork
+
+Give supplier
+access to
+working files
+
+Oversee
+production
+& application
+
+– Understand the space.
+–	Establish the best
+location for sign(s).
+–	Ensure sign is
+prominently positioned
+to be instantly visible.
+Consider lighting,
+reflections, sight
+lines and potential
+obstructions.
+
+–	Consult the Local
+Authority Planning
+Department guidelines
+with respect to the
+proposals.
+–	If required submit a
+planning application
+–	Consider how the
+sign(s) will affect the
+appearance of the local
+area and public safety.
+
+Collate a detailed list
+that outlines:
+– Sign location(s).
+– Sign type(s).
+– Sign code(s).
+– Sign content.
+
+–	Production should be
+commissioned in line
+with the University's
+procurement policies.
+– Please liaise with
+Senior Buyers.
+
+Upon appointment,
+provide supplier with
+access to:
+– Our Kit of Parts.
+– This Protocol PDF.
+
+–	Liaise with supplier
+to ensure quality and
+consistency is achieved.
+–	Cross-reference output
+with the Protocol.
+–	Review printed samples
+before approving.
+
+02
+Kit of Parts
+
+To ensure consistency and maximise efficiency, we have
+created working artwork templates for internal and external
+signs. The following pages outline their function and purpose.
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+11
+
+ew01
+
+ed01 / ed02
+
+eso01
+
+ebi01 / ebi02 / ebi03
+
+Welcome
+
+Directional
+
+Site Orientation
+
+Building Identifier
+
+Help people identify main entrance
+point(s) to the Campus.
+
+Help direct people to specific
+destinations.
+
+Help people understand the layout
+of the area or campus.
+
+Help people identify the building
+they’re looking for.
+
+ei01 / ei02
+
+et01 / et02
+
+eint01
+
+Informative
+
+Temporary
+
+Interpretation
+
+Unique
+
+Help regulate behaviour and
+inform users.
+
+Short-term and highly visible to quickly
+raise awareness or grab attention.
+
+ on-directional signage that creates a
+N
+narrative based on a point of interest.
+
+For special requirements, as agreed
+with the Director of Estates Services.
+
+Procured independently but should adhere
+to the basic production principles on p.20 / 21.
+
+Procured independently but should adhere
+to the University brand guidelines.
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+
+Help people identify main
+entrance point(s) to the
+University Campus.
+
+Satellite campus
+These totems will list the
+relevant buildings/blocks
+to inform and manage
+expectations.
+Positioning
+Prominently positioned
+at main entrance point(s)
+to the Campus.
+Artwork
+ew01.indd
+Specification
+See 'Construction &
+Application' section.
+
+ew01
+12
+
+Welcome
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+
+Help people understand
+the layout of the area
+or campus.
+
+Positioning
+Prominently positioned
+at 'on-foot' entry points
+car park exits and
+decision points.
+Artwork
+eso01.indd
+Logo plate:
+ep02.indd
+Specification
+See 'Construction &
+Application' section.
+
+eso01 + ep02
+13
+
+Site Orientation
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+14
+
+ed01 + ep02
+
+Help direct people to
+specific destinations.
+
+Directional
+Positioning
+Positioned at key decision
+points in a person’s
+journey, including
+roundabouts, junctions,
+pathways and car parks.
+
+ed02 + ep02
+
+Artwork
+ed01.indd
+ed02.indd
+Logo plate:
+ep02.indd
+Specification
+See 'Construction &
+Application' section.
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+
+Format
+– Clear, universal and functional.
+– 2 dimensional, top down view.
+–	Illustrative landmarks allow quick identification.
+This is particularly effective for people using
+English as a foreign language.
+–	Each map should be square to fit on structures
+in all orientations.
+
+Heads-up Mapping
+–	Maps should always be orientated in the direction
+the user is facing.
+–	Content at the top of the map represents what is in
+front of you: a perceived north, respecting the user’s
+interaction with the campus and surrounding area.
+– True north symbol should feature on all maps.
+
+Walking Radius
+– A useful, practical unit of measurement.
+– Circle radiates from 'you are here' marker.
+– Applied to all campus maps.
+
+Map Creation
+– Procured as needed.
+– All commissions should follow this guidance.
+
+15
+
+Site Orientation
+Maps
+An integral part of all site
+orientation signage. Maps
+should also feature on
+the University website,
+prospectuses, emailers
+and other communication /
+promotional material.
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+
+ebi01 + ep03
+
+ebi02 + ep04
+
+Help people reach the
+building they’re looking for
+and confirm they’ve arrived
+at the correct building.
+
+Building Identifier
+Positioning
+Clearly visible from all
+approaches to the building,
+these should be positioned
+above peoples’ heads,
+parked cars and other
+potential obstructions.
+Heritage names
+These signs provide the
+opportunity to phase
+in heritage names for
+buildings. Block codes will
+remain for a slow transition.
+Artwork
+ebi01.indd
+ebi02.indd
+Logo plate:
+ep03.indd
+ep04.indd
+Specification
+See 'Construction &
+Application' section.
+
+Bespoke Size
+There may be instances where a building would benefit
+from a larger sign or a bespoke approach. These signs
+would be required as 'Unique' and should be agreed in
+advance with the Director of Estates Services.
+16
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+
+ebi03 + ep05
+
+Positioning
+Clearly visible from all
+approaches to the building,
+these should be positioned
+above peoples’ heads,
+parked cars and other
+potential obstructions.
+Heritage names
+These signs provide the
+opportunity to phase
+in heritage names for
+buildings. Block codes will
+remain for a slow transition.
+Artwork
+ebi03.indd
+Logo plate:
+ep05.indd
+Specification
+See 'Construction &
+Application' section.
+
+Bespoke Size
+There may be instances where a building would benefit
+from a larger sign or a bespoke approach. These signs
+would be required as 'Unique' and should be agreed in
+advance with the Director of Estates Services.
+17
+
+Building Identifier
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+
+ei01 + ep01
+
+ei02 + ep01
+
+Parking
+
+Used to regulate behaviour
+and inform users. These
+signs should convey a
+single message in a clear,
+firm and polite manner.
+
+Informative
+Note
+These do not replace
+mandatory signs that
+follow BSI standards
+(fire / safety / exits etc...)
+Positioning
+Positioned in areas that
+will help regulate behaviour
+and inform visitors,
+such as car park tariffs
+and regulations, speed
+restrictions, CCTV, dog
+rules and safety notices.
+Artwork
+ei01.indd
+ei02.indd
+Logo plate:
+ep01.indd
+Specification
+See 'Construction &
+Application' section.
+
+18
+
+Artwork templates are available from Estates Services
+
+External
+Kit of Parts
+19
+
+Intended for short-term
+use. Portable, flexible and
+highly visible, they allow
+for reactive marketing or
+supplementary wayfinding.
+Printed insert sleeve
+
+Hand written notices
+Temporary signage displayed in the
+public domain must be large enough
+to avoid obstruction. Temporary
+signage within the University Campus
+can smaller, but please consider
+visibility and safety.
+
+Temporary
+Positioning
+High visibility areas.
+Artwork
+et01.indd
+et02.indd
+Specification
+See 'Construction &
+Application' section.
+
+External
+Interpretation
+20
+
+Non-directional signage
+that creates a narrative
+based on a point of interest.
+
+Interpretation
+Note
+Angled information
+panels can be adjusted
+to the optimum angle for
+readability.
+Positioning
+These signs will be freestanding in front of the
+relevant building / area.
+They should be visible
+and easily accessed but
+not overpowering or
+distracting.
+
+External
+Interpretation
+
+Directional signage that
+guides people through a
+pre-defined trail.
+
+Interpretation
+Note
+Angled information
+panels can be adjusted
+to the optimum angle
+for readability and
+should be produced
+from environmentally
+responsible materials.
+Heights are variable
+depending on surrounding
+landscape and potential
+obstructions.
+Artwork
+eint01.indd
+Logo plate:
+ep06.indd
+ep07.indd
+
+21
+
+ep07
+
+eint01 + ep06
+
+Trail Orientation
+
+Trail Markers
+
+Positioning
+These signs will be located at the entry
+point to every trail and any trail overlap /
+decision points.
+
+Positioning
+These signs will be located at trail
+milestones, continuously informing people
+what trail they are on.
+
+Specification
+See 'Construction &
+Application' section.
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+22
+
+iw01
+
+iso01
+
+ild01 / ild02
+
+id01 / id02 / id03 / id04 / id05
+
+Welcome
+
+Site Orientation
+
+Level Directories
+
+Directional
+
+Help reassure people that they have
+arrived at the correct building.
+
+Help people understand the layout
+of the building.
+
+Convey key information about
+each floor.
+
+Help direct people to specific
+destinations.
+
+iri01 / iri02 / iri03 / iri04
+
+ii01 / ii02
+
+Room Identifier
+
+Informative
+
+Help people identify the room
+they’re looking for.
+
+Help regulate behaviour and
+inform users.
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+23
+
+iw01 + ip07
+
+Help reassure people that
+they have arrived at the
+correct building.
+
+Welcome
+Positioning
+Prominently positioned
+at main entrance point(s)
+to the building.
+Artwork
+iw01.indd
+Logo plate:
+ip07.indd
+Specification
+See 'Construction &
+Application' section.
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+
+iso01 + ip03
+
+X
+
+X
+24
+
+Help people understand
+the layout of the building,
+where required.
+
+Site Orientation
+Positioning
+Highly visible as people
+enter the building lobby
+and not placed where
+objects may be positioned
+in front of them.
+Artwork
+iso01.indd
+Logo plate:
+ip03.indd
+Specification
+See 'Construction &
+Application' section.
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+25
+
+ild01 and ild02 + ip03
+
+Convey key information
+about each floor.
+
+Level Directory
+Positioning
+Prominently positioned in
+lobby areas, outside lifts
+and stairwells.
+Artwork
+ild01.indd
+ild02.indd
+Logo plate:
+ip03.indd
+Specification
+See 'Construction &
+Application' section.
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+26
+
+id01 + ip06
+
+id02 + ip05
+
+id03 + ip05
+
+Help direct people to
+specific destinations.
+
+Directional
+Positioning
+Positioned at key decision
+points in a person’s journey,
+including corridors,
+stairwells, lifts and stairs.
+Artwork
+id01.indd
+id02.indd
+id03.indd
+Logo plate:
+ip05.indd
+ip06.indd
+Specification
+See 'Construction &
+Application' section.
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+27
+
+id04 + ip02
+
+Help direct people to
+specific destinations.
+
+Directional
+Positioning
+Positioned at key decision
+points in a person’s journey,
+including corridors,
+stairwells, lifts and stairs.
+
+id05 + ip02
+
+Artwork
+id04.indd
+id05.indd
+Logo plate:
+ip02.indd
+Specification
+See 'Construction &
+Application' section.
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+
+iri01 + ip05
+
+Help people identify the
+room they’re looking for.
+
+Positioning
+Clearly visible as people
+approach the room and
+not placed where objects
+may be positioned in
+front of them.
+
+iri02 + ip04
+
+Artwork
+iri01.indd
+iri02.indd
+iri03.indd
+iri04.indd
+Logo plate:
+ip01.indd
+ip04.indd
+ip05.indd
+
+iri03 + ip01
+
+Specification
+See 'Construction &
+Application' section.
+
+iri04 + ip01
+Senior staff may apply
+for unique name plates,
+with advanced approval
+from the Director of
+Estates Services.
+
+28
+
+Room Identifier
+
+Artwork templates are available from Estates Services
+
+Internal
+Kit of Parts
+29
+
+ii01 + ip01
+
+ii02 + ip01
+
+Toilet
+
+Used to regulate behaviour
+and inform users, conveying
+a single message in a clear,
+firm and polite manner.
+
+Informative
+Note
+These do not replace
+mandatory signs that
+follow BSI standards
+(fire / safety / exits etc...)
+Positioning
+Positioned in areas that
+will help regulate behaviour
+and inform visitors, such
+as smoking, food and drink
+and health and safety.
+Artwork
+ii01.indd
+ii02.indd
+Logo plate:
+ip01.indd
+Specification
+See 'Construction &
+Application' section.
+
+03
+Scoping
+
+When planning signage positioning, consider different
+user groups (staff, students, visitors) and their possible
+journeys through campus. Users must be supported
+throughout their whole journey, from the moment they
+arrive to the moment they leave.
+
+Scoping
+Principles
+
+Sign Type
+Welcome
+Informative
+Directional
+Site Orientation
+Building Identifier
+
+Decision Points
+Place the appropriate sign at every decision point
+(where the navigator must make a wayfinding decision).
+For example, whether to continue along the current route
+or to change direction.
+–	External signage requirements for each campus are
+outlined in the following pages.
+–	Internal areas should be conducted by staff, with
+consideration of user journeys and decision points.
+
+Sample External Journey
+Coleraine: Cromore Road to Main Entrance, by car, then on foot.
+
+Sign Codes
+Each sign type has been assigned a unique code. This will
+facilitate planning, placement, supplier communication,
+installation and repairs / replacement.
+
+ed01
+Number
+Directional
+External
+
+iso01
+Number
+Directional
+External
+Sample Internal Journey
+Belfast: Main Entrance to stairwell / lift, on foot.
+31
+
+Scoping
+Coleraine External
+32
+
+Sign Type
+Welcome
+Informative
+Directional
+Site Orientation
+Building Identifier
+Interpretation
+Unique Signage:
+	We have identified
+the need for campus
+identifiers along
+Cromore Road and
+Portstewart Road.
+See p.35.
+
+Scoping
+Magee External
+33
+
+Sign Type
+Welcome
+Informative
+Directional
+Site Orientation
+Building Identifier
+Interpretation
+Unique Signage:
+We have identified
+the need for a campus
+identifier on a prominent
+south facing building.
+See p.36.
+
+Scoping
+Belfast External
+34
+
+Sign Type
+Welcome
+Informative
+Directional
+Site Orientation
+Building Identifier
+Interpretation
+Unique Signage:
+	We have identified
+the need for bespoke
+building identifiers on
+two façades. These
+signs will capitalise
+on Hill Street footfall
+and M3 traffic by
+clearly signposting the
+campus. See p.37.
+
+Scoping
+Unique Signage
+
+Coleraine
+
+Suggested Solutions
+
+Campus identifiers along Cromore Road and
+Portstewart Road will provide visual cues to reassure
+people they have reached the campus perimeter. The
+Welcome signs on Cromore Road are uniquely large and
+should be retained for maximum visibility.
+Lamp Post Banners
+A highly visible and cost-effective way of marking the
+campus perimeter, utilising existing infrastructure.
+Fibre arms and powder-coated aluminium brackets
+with spring-loaded tensioning to resist wind load.
+
+Cromore/Portstewart Road: Lamp post banners lead to Welcome sign.
+
+Custom Welcome Signs
+These signs are uniquely large. To avoid unnecessary
+expense, we can re-use the existing triangular
+foundation and internal structure. The sign should
+mirror the design of the standard Welcome sign.
+
+Cromore Road: Large Welcome sign.
+
+35
+
+Scoping
+Unique Signage
+
+Magee
+
+Suggested Solutions
+
+A bespoke building identifier will capitalise on busy
+footfall around the Derry City walls area.
+
+Contra Vision
+Transforming glass with one-way vision graphics which
+cannot be seen from the other side. They provide privacy
+and solar control benefits to people inside buildings
+without blocking their view outside.
+
+Block MU: roof mounted University identifier
+
+Roof Mounted Lettering
+Three dimensional lettering that protrudes up from the
+top of the building. Provides a highly visible University
+identifier, particularly from distance. Materials and
+finishes should be selected with consideration of the
+architecture and overall Signage Protocol.
+
+36
+
+Scoping
+Unique Signage
+
+Belfast
+
+Suggested Solutions
+
+Bespoke building identifiers on two façades will
+capitalise on Hill Street footfall and M3 traffic by
+clearly signposting the campus.
+
+Contra Vision
+Transforming glass with one-way vision graphics which
+cannot be seen from the other side. They provide privacy
+and solar control benefits to people inside buildings
+without blocking their view outside.
+
+North facade: view from M3.
+
+Roof Mounted Lettering
+Three dimensional lettering that protrudes up from the
+top of the building. Provides a highly visible University
+identifier, particularly from distance. Materials and
+finishes should be selected with consideration of the
+architecture and overall Signage Protocol.
+
+East facade: view from Hill Street junction.
+
+37
+
+04
+Construction & Application
+
+For consistency across all campuses and to maximise
+efficiency and cost-effectiveness, we have established
+materials and production methods for each sign type.
+The following pages outline the relevant specification.
+
+External
+Construction
+
+Free-standing Signage
+Signage constructed out of powered coated aluminium
+with interchangeable plates provide, robust and flexible
+solution for all external signing requirements. Following
+guidelines will ensure that all signage produced across
+the 3 campuses will be constant and on-brand.
+Front / back panels
+–	Panels fixed to internal frame.
+– Heavy gauge folded aluminium.
+– Anti-vandal lacquer.
+– Text stencil cut 050 opal acrylic.
+– Internally illuminated with SLOAN™ LED modules
+(Welcome / Site Orientation only).
+– Powder coated.
+– Interchangeable plates.
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Panel
+
+39
+
+Internal frame
+
+Internal frame
+– Mild galvanised steel.
+– Underground support bars (depth to be defined
+by manufacturer).
+Base plate
+– 360o wraparound frame.
+– Heavy gauge aluminium.
+– Powder coated.
+
+Underground
+support bars
+
+External
+Construction
+
+Wall–mounted signage
+Signage constructed out of powered coated aluminium
+with interchangeable plates provide, robust and flexible
+solution for all external signing requirements. Following
+guidelines will ensure that all signage produced across
+the 3 campuses will be constant and on-brand.
+– Single sided.
+– 3mm folded aluminium.
+– Powder coated.
+– 30mm return on top, bottom and outer edges.
+– Stencil logo / text using 5 year polymeric vinyl with
+matt laminate.
+– Strong and lightweight.
+– Interchangeable plates.
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Internal frame
+– Mild galvanised steel.
+– Bar to support join between logo and name plate.
+
+40
+
+Fixing
+– Internal frame fixed to mounting surface.
+– Plates bolted to internal frame via top and bottom
+returned edges.
+Mounting
+– 30mm returned edges.
+– Mounted flush to surface.
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Welcome
+
+41
+Side view
+– 50mm returned
+edges with capped
+sides to enable
+secret fixings.
+– 50mm trim width.
+
+2900
+3000
+
+Base plate
+100
+
+ew01
+Top view
+– Front / back panels
+returned edges sit
+flush with trim.
+– No trim required along
+top of internal frame.
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+1250
+150
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Welcome Toblerone
+
+42
+Side view
+– 50mm returned
+edges with capped
+sides to enable
+secret fixings.
+– 50mm trim width.
+
+3000
+
+Base plate
+100
+
+ew01
+
+Top view
+– Front / back panels
+returned edges sit
+flush with trim.
+– No trim required along
+top of internal frame.
+
+Curved
+corner piece
+
+2900
+Panel
+
+Internal frame
+
+1250
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+1250
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Site Orientation
+
+43
+60
+
+Base plate
+100
+
+Side view
+– 50mm returned
+edges with capped
+sides to enable
+secret fixings.
+– 50mm trim width.
+
+Map to be placed here
+
+1890
+2050
+
+esi01 + ep02
+Top view
+– Front / back panels
+returned edges sit
+flush with trim.
+– No trim required along
+top of internal frame.
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+750
+150
+
+44
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Directional
+
+ed01 + ep02
+
+60
+
+80
+
+80
+
+750
+
+ed02 + ep02
+
+60
+
+120
+
+120
+
+750
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+Directional signage can
+either be wall-mounted
+or free-standing.
+
+45
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Building Identifier
+
+150
+
+110
+640
+
+750
+
+ebi02 + ep04
+
+500
+
+370
+2130
+
+2500
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+ebi01 + ep03
+
+46
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Building Identifier
+
+1000
+
+740
+4260
+
+5000
+
+Bespoke Size
+There may be instances where a building would benefit
+from a larger sign or a bespoke approach. These signs
+would be required as 'Unique' and should be agreed in
+advance with the Director of Estates Services.
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+ebi03 + ep05
+
+47
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Informative
+
+30
+
+180
+
+150
+
+150
+
+ei02 + ep01
+30
+
+210
+
+180
+
+Parking
+
+150
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+ei01 + ep01
+
+48
+
+External
+Temporary
+
+et01
+et02
+
+600
+
+Height of each temporary
+signage and position of
+bend will vary depending
+on location and content.
+300
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Front View
+
+49
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Interpretation
+
+Height of each temporary
+signage and position of
+bend will vary depending
+on location and content.
+
+Logo, marker and
+information panels
+should be recessed into
+base material to achieve
+a flat front surface.
+
+Groundworks and
+foundation depth to be
+defined by manufacturer
+
+Suitably ground mounted
+
+eint01 + ep06 ep07
+180
+
+600
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+Front View
+
+50
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Interpretation
+
+Path
+0.0km
+
+180
+
+180
+
+180
+
+ep06
+
+180
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+eint01
+
+51
+
+External
+Interpretation
+
+180
+
+600
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+ep07
+
+52
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+External
+Application
+
+Positioning of each Building
+Identifier will vary depending on
+location and space available.
+
+1,750
+1,600
+
+Internal
+Construction
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+53
+
+General Construction
+The HB Modular Sign System (MSS) is an elegant, robust
+and flexible solution for all internal signing requirements.
+The system is made from dovetailed aluminium extrusions
+which slide together to form the completed sign. There is
+no back plate so signs can be single or double sided.
+– Strong and lightweight.
+– Interchangeable plates with multiple configurations.
+– Plates held securely in place by integral dovetails.
+– Only 6mm thick, with no visible frames or fixings.
+– Signs can be single or double sided without affecting
+the thickness.
+– Suitable for wall, door, suspended, projecting, desk
+mounted and free-standing signs.
+– Incorporates a hidden, tamper-proof locking device.
+– No restriction to the size of sign.
+– No specialist maintenance required.
+
+54
+
+Internal
+Welcome
+
+150
+
+110
+640
+
+750
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+iw01 + ip07
+
+55
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Internal
+Site Orientation
+
+750
+
+60
+
+60
+
+Height of each Site
+Orientation section will
+depend on the relevant
+floorplan.
+
+60
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+iso01 + ip03
+
+56
+
+Internal
+Level Directories
+
+60
+
+60
+
+60
+
+180
+60
+
+60
+
+150
+600
+
+750
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+ild01 and ild02 (floor plate) + ip03
+
+57
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Internal
+Directional
+
+120
+
+70
+530
+
+600
+
+id02 + ip05
+
+80
+
+70
+530
+
+600
+
+id03 + ip05
+
+80
+
+70
+380
+
+450
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+id01 + ip06
+
+58
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Internal
+Directional
+
+60
+
+80
+
+80
+
+600
+
+id05 + ip02
+
+60
+
+120
+
+120
+
+600
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+id04 + ip02
+
+59
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Internal
+Room Identifier
+
+80
+
+70
+530
+
+600
+
+iri02 + ip04
+40
+
+35
+115
+
+150
+
+iri03 + ip01 / iri04 + ip01
+30
+
+180
+
+150
+
+150
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+iri01 + ip05
+
+60
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Internal
+Informative
+
+30
+
+180
+
+150
+
+150
+
+ii02 + ip01
+30
+
+210
+
+180
+
+Toilet
+
+150
+
+This specification should be read in conjunction with the Brand Assets section on p.7 which details colours, typefaces and logos.
+
+ii01 + ip01
+
+61
+These drawings represent design intent only.
+Detailed manufacture and installation drawings
+must be provided by the signage contractor.
+Site survey findings may dictate necessary
+changes to specification and fixing methods.
+All measurements are in mm.
+
+Internal
+Application
+
+Room Identifiers
+
+– Wall mounted.
+– To the right of doors and lift entrances.
+– Assists Braille users.
+
+80mm
+
+1,750
+1,350
+1,600
+
+Toilet Doors
+
+– Door mounted.
+– Applied to the centre of the door.
+– Assists Braille users.
+
+80mm
+
+1,600
+
+Braille
+62
+
+Positioning
+
+Raster Braille technique
+
+–	Braille signs are, by their very nature, always read close up and should
+be positioned where they can easily be touched. The ideal range of
+heights for positioning of Braille signs would be between 1300mm and
+1600mm above finished floor level.
+–	Braille signage should comply with current Government guildlines.
+
+– Routing and inlay capabilities.
+– Coloured or clear ball bearing options.
+– Multiple suppliers across Northern Ireland and UK.
+– Can be applied to any material, avoiding the need for plastic.
+
+05
+Additional Considerations
+
+Certain wayfinding applications will adapt to meet specific objectives
+so may not adhere to our Kit of Parts parameters. Every application
+requires justification and advanced approval from the Director of
+Estates Services.
+
+Non-Branded Areas
+
+Funder Acknowledgement
+64
+
+The University can receive external funding that contributes towards a
+new building, project or department – the University may decide to name
+these after the donor. This is decided on a case-by-case basis and will be
+overseen by the Director of Estates Services.
+
+There may be business or contractual reasons why areas of the
+University have their own standalone identity and signage, for example,
+Riverside Theatre, Sport Halls, shops, hairdressers and cafés. These
+are open to the public and / or self-funded so will manage their own
+wayfinding and signage programmes. Please direct any queries to the
+Director of Estates Services.
+
+Further Wayfinding
+65
+
+Wayfinding extends beyond signage. The user
+journey often starts at home – visiting our
+website, reading our prospectus, receiving
+a email or a phone call with University staff.
+To improve the University experience,
+every touchpoint should be aesthetically
+and verbally cohesive.
+
+Verbal Directions
+When giving verbal directions verbally, all language,
+names, codes and terminology should be consistent.
+
+Written Communications
+Effective wayfinding often starts before reaching
+the campus. Pre-visit sources of information such
+as web pages, emailers, letters and emails should
+utilise consistent language and aesthetics to this
+Signage Protocol.
+
+Off-site Signage
+There will be some signs outwith the University’s
+control that direct people to the University, for
+example, street signage. The local authority should be
+consulted to ensure the transition from road signage
+to campus signage is smooth and that all language and
+terminology is consistent.
+
+If this protocol document
+does not provide a suitable
+solution for your needs, you
+must contact the Director of
+Estates Services to discuss
+and agree best solution before
+commissioning any signage.
+
+Signage Protocol Guidelines
+
+Please direct queries and requests to the
+Director of Estates Services. Thank you.
+
+

@@ -54,7 +54,7 @@ def insert_into_db(chunks):
 
 
 if __name__ == "__main__":
-    file_path = "./Policies/UUSUPoliticalExpressionFramework.txt"
+    file_path = "./Policies/WayFindingStrategySignageProtocol.txt"
 
     chunks = process_file(file_path)
 

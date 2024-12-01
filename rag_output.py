@@ -35,14 +35,13 @@ def generate_completion(prompt):
     return response.json()["choices"][0]["text"]
 
 def main():
-    query = "Where do I send complaints to UUSU?"
-    
+    query = input("Please enter your query: ")
+
     query_embedding = generate_embedding(query)
-    
-    # Retrieve top-k relevant chunks
+
     retrieved_chunks = retrieve_relevant_chunks(query_embedding)
     context = "\n".join(retrieved_chunks)
-    
+
     prompt = f"Context:\n{context}\n\nQuestion: {query}\n\nAnswer:"
     response = generate_completion(prompt)
     print("Response:", response)

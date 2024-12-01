@@ -1,0 +1,176 @@
+USE OF ELECTRIC VEHICLE CHARGING STATIONS TERMS AND CONDITIONS
+
+DEFINITIONS
+Charging Station means an EV charging unit that the University owns and that is suitable
+for charging an EV and includes all equipment associated with the charging unit.
+EV means a motor vehicle registered for use on public roads whose main motive energy
+source is electricity stored in an on-board battery or batteries (including hybrid models) and,
+where the context requires, includes any passenger or any personal property in or around
+the EV.
+Terms and Conditions means the terms and conditions stated in this document, as may be
+updated from time to time.
+We means the entity that is the owner of a Charging Station (including its officers and
+employees) that is identified on the Charging Station and, where the context requires,
+includes any lawfully appointed agent or successor of the owner (including any of its officers
+and employees), and our takes an appropriate meaning.
+You means the person wishing to connect an EV to a Charging Station, and your takes an
+appropriate meaning.
+AGREEMENT
+By using one of the University’s Charging Stations to which these Terms and Conditions
+apply, you acknowledge that you have read and understood these Terms and Conditions,
+and that you agree to be bound by them. If you do not agree to be bound by these terms
+and Conditions, you must not use the Charging Station and you must not actively or
+passively prevent or obstruct any other person or vehicle from having access to the
+Charging Station.
+
+WHAT YOU NEED TO DO
+1. You must take all reasonable efforts to make sure that you follow the instructions that
+are displayed on or near the Charging Station. These instructions may change at
+any time and it is your responsibility to make sure that you follow the instructions that
+are displayed at the time you use the Charging Station.
+
+1
+
+2. The driver’s handbook for your EV describes how to recharge your EV safely and
+efficiently, and you must take all reasonable efforts to recharge your EV in
+accordance with the guidelines in the driver’s handbook.
+3. You must only use, or attempt to use, a University Charging Station for recharging an
+EV if your EV is compatible with that Charging Station.
+4. Your use of one of the University Charging Stations must be fair and reasonable and
+must not be excessive. If the University consider that your usage is unfair,
+unreasonable or excessive, we may immediately suspend, modify or restrict your
+access to any or all Charging Stations to which these Terms and Conditions apply.
+5. You must not use one of the University Charging Stations in a way that will put the
+Charging Station, you, any other person, your EV or any other person’s EV at
+unnecessary risk.
+6. If you are not the owner of the EV you wish to recharge at one of the University
+Charging Stations, you warrant that the owner has authorised you to use one of the
+Charging Stations and, by connecting the EV to the Charging Station, you have
+authority to bind the owner to these Terms and Conditions.
+7. You acknowledge that the University Charging Stations will not be supervised and
+that you will use them at your own risk.
+8. When you are using one of the University Charging Stations you agree to keep the
+area around the Charging Station clean and tidy, and to comply with any reasonable
+request the University makes when you are using that Charging Station including any
+request to immediately suspend, modify or restrict your access to the Charging
+Station.
+9. You must comply with any reasonable request the University makes of you when you
+are using one of the University Charging Stations.
+10. You must comply with your duties under current Health and Safety legislation,
+including but not limited to:
+10.1
+
+Taking reasonable care of your health and safety.
+
+10.2
+
+taking reasonable care that your acts and omissions do not adversely
+affect the health and safety of any other person; and
+
+10.3
+
+complying as far as you are reasonably able, with any reasonable
+instruction that is given to you by us to allow us to comply with current
+Health and Safety Legislation.
+
+11. If there are any faults or you have any issues with any of the University Charging
+Stations, please contact the Main reception Desk on the relevant Campus.
+
+2
+
+YOUR LIABILITY TO THE UNIVERSITY
+12. You may be liable to us as a result of any direct loss or damage that the University or
+one of our Charging Stations may suffer as a result of you using or having used one
+of our Charging Stations negligently.
+13. By using one of the University Charging Stations you are confirming to us that your
+EV has a current warrant of fitness or certificate of fitness (as appropriate) and that it
+is registered for use on Northern Ireland roads.
+WHAT HAPPENS IF YOU HAVE A COMPLAINT
+14. Where you believe that the University has not dealt appropriately with an issue you
+have raised, you have the right to make a complaint to us and the University have an
+obligation to make sure that the complaint is dealt with fairly and in accordance with a
+proper process.
+WHAT THE UNIVERSITY NEED TO DO
+15. The University will provide Charging Stations as we see fit to enable you to recharge
+your EV. In doing so, we may suspend or refuse access to a Charging Station at any
+time, for any reason.
+16. The University will endeavour to keep the University Charging Stations free from any
+faults, errors or defects but the University does not guarantee, and is under no
+obligation to ensure the availability, compatibility with your EV, or performance of any
+of the University Charging Stations, nor are we able to guarantee an uninterrupted
+supply of electricity to the Charging Stations.
+17. The University will take reasonably practicable steps to ensure that:
+17.1
+
+the health and safety risks arising from the use of one of the
+University Charging Stations is (if possible) eliminated or (if this is not
+possible) minimised;
+
+17.2
+
+your health and safety, and that of any other person, is not put at risk
+from work that the University carry out as part of the operation of the
+Charging Station;
+
+17.3
+
+the instructions about how to use the Charging Station are as clear as
+the University can practicably make them;
+
+17.4
+
+the University complies with all its duties to you under the current
+version of the Health and safety at Work (Northern Ireland) Order
+1978; and
+
+17.5
+
+you know how to contact us if you need to.
+
+THE UNIVERSITY’S LIABILITY TO YOU
+18. The University are responsible to you for foreseeable loss and damage caused by
+us. If we fail to comply with these terms, we are responsible for loss or damage you
+3
+
+suffer that is a foreseeable result of our breaking this contract or our failing to use
+reasonable care and skill, but we are not responsible for any loss or damage that is
+not foreseeable. Loss or damage is foreseeable if either it is obvious that it will
+happen or if, at the time the contract was made, both we and you knew it might
+happen.
+19. We do not exclude or limit in any way our liability to you where it would be unlawful to
+do so. This includes liability for death or personal injury caused by our negligence or
+the negligence of our employees, agents or subcontractors; and for fraud or
+fraudulent misrepresentation.
+20. In providing the charging services, we will make good any damage to your car
+caused by us while doing so. However, we are not responsible for the cost of
+repairing any pre-existing faults or damage to your property that we discover while
+providing the services. We are also not responsible for any faults or damage caused
+by your incorrect or inappropriate use of the charge point.
+21. We are not liable for business losses. We only supply the products for domestic and
+private use. If you use the products for any commercial, business or re-sale purpose
+we will have no liability to you for any loss of profit, loss of business, business
+interruption, or loss of business opportunity.
+22. The University will make every effort to ensure that a Charging Station is fit for
+charging an EV that is to be used on public roads, but the University charging
+Stations will result in a successful and timely recharge of your EV’s battery or
+batteries.
+FURTHER TERMS
+23. The Charging Station itself may collect certain statistical information concerning the
+use of the Charging Station. We do not envisage that we will be using any of your
+personal data however in the unlikely event that we do process your personal data
+this will only be done in accordance with the University privacy notice.
+24. The University may amend these terms and Conditions at any time and for any
+reason. Each time you use one of the University Charging Stations you agree to be
+bound by the current terms and conditions.
+25. These Terms and Conditions are subject to Northern Ireland law and are subject to
+the exclusive jurisdiction of the courts of Northern Ireland. Any legal proceedings
+arising out of these terms and Conditions will be heard in Northern Ireland, unless we
+otherwise agree in writing.
+PAYMENT AND TARIFF
+26. You will pay the amount as stated on the EV Charge website. Your payment to the
+website will be governed by the EV Charge Terms and Conditions which can be
+accessed via http://evcharge.online/
+
+4
+
+
